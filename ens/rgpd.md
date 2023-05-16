@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # RGPD
 
 ### **¿Qué es el Reglamento General de Protección de Datos (RGPD)?**

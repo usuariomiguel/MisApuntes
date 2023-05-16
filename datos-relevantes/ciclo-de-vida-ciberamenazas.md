@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Ciclo de vida ciberamenazas
 
 Este es el ciclo de vida de la mayoría de las ciberamenazas, modelo desarrollado por Lockheed Martin y denominado Cyber Kill Chain®12.
