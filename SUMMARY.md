@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Paradores Ciberseguridad](README.md)
+* [Paradores](README.md)
 
 ## ENS
 

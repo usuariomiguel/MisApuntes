@@ -1,4 +1,11 @@
-# Paradores Ciberseguridad
+---
+description: Información relevante para el area de ciberseguridad
+cover: >-
+  https://images.unsplash.com/photo-1647087038801-bef2372d12c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxwYXJhZG9yfGVufDB8fHx8MTY4NDMzMDM2Nnww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# Paradores
 
 ## Presentación
 
@@ -13,8 +20,6 @@ Además, abordamos en detalle los desafíos específicos que enfrentan las organ
 En nuestra página informativa, también destacamos las amenazas comunes en línea, como el phishing, el malware y el robo de identidad. Ofrecemos ejemplos prácticos y consejos sobre cómo reconocer y evitar estas amenazas, y cómo actuar en caso de sospecha de un incidente de seguridad.
 
 Además, ponemos a disposición recursos adicionales como guías descargables, listas de verificación y enlaces a herramientas y software de seguridad recomendados. Estos recursos brindan a los visitantes la posibilidad de profundizar en temas específicos y acceder a soluciones prácticas para mejorar su seguridad en línea.
-
-Por último, nuestra página cuenta con un apartado de preguntas frecuentes donde respondemos las consultas más comunes sobre seguridad y protección de datos, proporcionando respuestas claras y concisas para aclarar dudas y brindar orientación adicional.
 
 En resumen, nuestra página informativa sobre seguridad y protección de datos es una herramienta integral y confiable para todos aquellos que desean mantener la seguridad y privacidad de sus datos en el entorno digital. Nuestro objetivo es educar, informar y capacitar a las personas y organizaciones para que tomen decisiones fundamentadas y adopten medidas proactivas para proteger sus datos en un mundo digital cada vez más complejo.
 

@@ -14,7 +14,7 @@ En el correo de concienciazion de esta semana vamos a tratar sobre el protocolo 
 
 Si bien actualmente hay muchos avances en el ambito de la ciberseguridad, estos avances se dan paralelamente en las tecnicas de ataques maliciosos.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Protocolo
 
