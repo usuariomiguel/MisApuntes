@@ -36,5 +36,5 @@ En esta fase los atacantes suelen usar herramientas de post-explotación o que l
 
 Una vez obtenido el control sobre la infraestructura víctima y establecido contacto con su sistema de Comando y Control, el atacante envía las órdenes de descarga y detonación del malware elegido, o bien cualquier otro tipo de acción a realizar sobre la red o sistemas víctima: exfiltración de información, alteración o eliminación de datos, cifrado, etc.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 

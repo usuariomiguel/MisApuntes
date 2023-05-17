@@ -18,6 +18,23 @@ Si bien actualmente hay muchos avances en el ambito de la ciberseguridad, estos 
 
 ### Protocolo
 
+Tras detectar que estamos ante un ciberataque peligros
+
+El orden es: Liderazgo > Preparación > Respuesta > Comunicación > Cierre
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+1. Comunicar con el director
+2. Concienciar a los trabajadores, proveedores y clientes
+3. Preparar un comite para ver una solucion
+4. Transladar la incidencia a SecureIT&#x20;
+5. Solucion
+6. Reportar ataque a las autoridades
+
+
+
 En el caso de ser victimas de un ataque se enviará un comunicada a través del correo electronico informando de las caracteristicas del ataque, y de ser necesario se detrallaran unas instrucciones de usuario para frenar dicho ataque.
 
 Como vimos anteriormente en las pildoras de concienciación hay diversos tipos de ataques y dependiendo de sus caracteristicas hay distintas maneras de afrontarlos, los ataques mas populares son:
