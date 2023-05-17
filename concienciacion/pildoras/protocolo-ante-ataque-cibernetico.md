@@ -6,15 +6,19 @@ description: ¿Que debo hacer en un ataque cibernético?
 
 ### Presentación
 
-En el correo de concienciazion de esta semana vamos a tratar sobre lo que debes hacer en caso de que se produzca un ataque cibernetico a la organizacion.
+En el correo de concienciazion de esta semana vamos a tratar sobre el protocolo de actuacion para amenazas cibernéticas.
 
 ### Concienciación
 
-Si bien actualmente hay muchos avances en el ambito de la ciberseguridad, paralelamente estos avances se dan en las tecnicas de ataques maliciosos. **Ninguna barrera de ciberseguridad, por potente que sea, es infranqueable.** En el caso de ser victimas de un ataque se llevara a cabo el siguiente protocolo:
+**Ninguna barrera de ciberseguridad, por potente que sea, es infranqueable.**
 
-1. Se enviara un correo electronico informando del alcanze del ataque recibido, se detrallaran los pasos a seguir para frenar el ataque en caso de ser necesario.
-2. Se informara a las personas externas a la empresa que trabajen para nosotros. Nos referimos a clientes, partners, proveedores, y otros agentes implicados en la cadena de suministros.
-3.
+Si bien actualmente hay muchos avances en el ambito de la ciberseguridad, estos avances se dan paralelamente en las tecnicas de ataques maliciosos.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### Protocolo
+
+En el caso de ser victimas de un ataque se enviará un comunicada a través del correo electronico informando de las caracteristicas del ataque, y de ser necesario se detrallaran unas instrucciones de usuario para frenar dicho ataque.
 
 Como vimos anteriormente en las pildoras de concienciación hay diversos tipos de ataques y dependiendo de sus caracteristicas hay distintas maneras de afrontarlos, los ataques mas populares son:
 
