@@ -18,9 +18,9 @@ Si bien actualmente hay muchos avances en el ambito de la ciberseguridad, estos 
 
 ### Protocolo
 
-Tras detectar que estamos ante un ciberataque peligros
+Hay que tener un protocolo antes de cualquier incidente. Este protocolo explica los pasos  a seguir a la hora de hacer frente a una crisis.
 
-El orden es: Liderazgo > Preparación > Respuesta > Comunicación > Cierre
+Ambitos fundamentales para abordar una crisis: Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,6 +32,8 @@ El orden es: Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 4. Transladar la incidencia a SecureIT&#x20;
 5. Solucion
 6. Reportar ataque a las autoridades
+
+**INDICE**
 
 
 
