@@ -4,74 +4,34 @@ description: ¿Que debo hacer en un ataque cibernético?
 
 # Protocolo ante ataque cibernetico
 
-### Presentación
+En el correo de de esta semana vamos a tratar sobre el protocolo de actuacion para amenazas cibernéticas.
 
-En el correo de concienciazion de esta semana vamos a tratar sobre el protocolo de actuacion para amenazas cibernéticas.
-
-### Concienciación
+### Introducción
 
 **Ninguna barrera de ciberseguridad, por potente que sea, es infranqueable.**
 
-Si bien actualmente hay muchos avances en el ambito de la ciberseguridad, estos avances se dan paralelamente en las tecnicas de ataques maliciosos.&#x20;
+Por crisis se entiende cualquier circunstancia, deliberada o fortuita, ocasionada internamente o no, que produce un desequilibrio en una organización con su servicio, clientes, accionistas, trabajadores y representantes sindicales, autoridades u otras empresas o entidades, afectando o dañando la imagen y reputación pública, con la consecuente pérdida económica o incumplimiento legal, pudiendo poner en peligro su viabilidad económica y/o futuro profesional.
+
+Ante una crisis, tres son los elementos a tener en cuenta: la **amenaza** a la organización, el **elemento sorpresa** (imprevisible e inesperado) y el **corto período** de tiempo que se exige para la toma de decisiones.
+
+Una crisis se entiendo como cualquier
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Protocolo
 
-Hay que tener un protocolo antes de cualquier incidente. Este protocolo explica los pasos  a seguir a la hora de hacer frente a una crisis.
+{% hint style="info" %}
+Fuente: [CCN-Cert Informe de Buenas Prácticas en la Gestión de cibercrisis](https://www.ccn-cert.cni.es/seguridad-al-dia/novedades-ccn-cert/12408-nuevo-informe-de-buenas-practicas-bp-29-gestion-de-crisis-para-ciberincidentes-en-entidades-locales.html).
+{% endhint %}
 
-Ambitos fundamentales para abordar una crisis: Liderazgo > Preparación > Respuesta > Comunicación > Cierre
+**Ambitos fundamentales para abordar una crisis:**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Resumen de buenas practicas CCN-CERT</p></figcaption></figure>
 
-1. Comunicar con el director
-2. Concienciar a los trabajadores, proveedores y clientes
-3. Preparar un comite para ver una solucion
-4. Transladar la incidencia a SecureIT&#x20;
-5. Solucion
-6. Reportar ataque a las autoridades
-
-**INDICE**
-
-
-
-En el caso de ser victimas de un ataque se enviará un comunicada a través del correo electronico informando de las caracteristicas del ataque, y de ser necesario se detrallaran unas instrucciones de usuario para frenar dicho ataque.
-
-Como vimos anteriormente en las pildoras de concienciación hay diversos tipos de ataques y dependiendo de sus caracteristicas hay distintas maneras de afrontarlos, los ataques mas populares son:
-
-#### Ransomware
-
-El malware está diseñado para mantener cautivo un sistema computacional o los datos que contiene hasta que se realice un pago.
-
-El ransomware a menudo se propaga a través de correos electrónicos de phishing que lo alientan a descargar un archivo adjunto malicioso o a través de una vulnerabilidad.&#x20;
-
-1. Desconexion de los equipos de la red
-2. Segmentacion de la red
-3. Despliege de solucion EDR y vacuna CCN-CERT
-4. Despliegue de MicroClaudia para distribuir vacunas&#x20;
-5. Ampliar nivel de vigilancia en los antispam
-6. Intensificar analisis del coontenido de las comunicaciones
-
-#### Spyware
-
-Diseñado para rastrearlo y espiarlo, el software espía monitorea su actividad en línea.
-
-#### Troyano
-
-Este malware lleva a cabo operaciones maliciosas al enmascarar su verdadera intención.
-
-A diferencia de los virus, los troyanos no se replican a sí mismos, sino que actúan como señuelo para colar software malicioso a los usuarios desprevenidos.
-
-#### Denegación de servicios (DoS)
-
-Este es un tipo de malware que se replica a sí mismo para propagarse de un ordenador a otro.
-
-A diferencia de un virus, que requiere un programa anfitrión para ejecutarse, los gusanos pueden ejecutarse por sí mismos.
-
-#### Diferentes tipos de ataques
-
-* como proceder y que medidas se aplican automaticamente
-
-### Conclusion y recordatorio.
+1. Liderazgo: Definir estructura de liderazgo&#x20;
+2. Preparacion: Elaborar una respuesta&#x20;
+3. Respuesta
+4. Comunicación: Discurso informativo
+5. Cierre: lecciones aprendidas
