@@ -5,8 +5,11 @@
 ## ENS
 
 * [Real Decreto 3 de Mayo](ens/real-decreto-3-de-mayo.md)
-* [RGPD](ens/rgpd.md)
 * [Glosario de Terminos](ens/glosario-de-terminos.md)
+
+## Group 1
+
+* [RGPD](group-1/rgpd.md)
 
 ## Datos-Relevantes
 
