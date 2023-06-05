@@ -1,29 +1,28 @@
 # Table of contents
 
-* [Inicio](README.md)
+* [INICIO](README.md)
 
-## ENS
+## CiberSeguridad
 
-* [Real Decreto 3 de Mayo](ens/real-decreto-3-de-mayo.md)
-* [Glosario de Terminos](ens/glosario-de-terminos.md)
+* [Glosario de Terminos](ciberseguridad/glosario-de-terminos.md)
+* [ENS](ciberseguridad/ens/README.md)
+  * [Real Decreto 3 de Mayo](ciberseguridad/ens/real-decreto-3-de-mayo.md)
+* [Concienciación](ciberseguridad/concienciacion/README.md)
+  * [Area transformación digital](ciberseguridad/concienciacion/area-transformacion-digital/README.md)
+    * [Protocolo ante ataque cibernético](ciberseguridad/concienciacion/area-transformacion-digital/protocolo-ante-ataque-cibernetico.md)
+  * [Pildoras](ciberseguridad/concienciacion/pildoras/README.md)
+    * [Incidencias de Ciberseguridad](ciberseguridad/concienciacion/pildoras/incidencias-de-ciberseguridad.md)
+    * [Protocolo actuación ante un ataque cibernético](ciberseguridad/concienciacion/pildoras/protocolo-actuacion-ante-un-ataque-cibernetico.md)
+    * [Lista Robinson](ciberseguridad/concienciacion/pildoras/lista-robinson.md)
+    * [Seguridad en el teletrabajo](ciberseguridad/concienciacion/pildoras/seguridad-en-el-teletrabajo.md)
+    * [Peligros de la IA](ciberseguridad/concienciacion/pildoras/peligros-de-la-ia.md)
 
-## Group 1
+## Protección de Datos
 
-* [RGPD](ens/rgpd.md)
+* [RGPD](proteccion-de-datos/rgpd.md)
 
 ## Datos-Relevantes
 
 * [Ciclo de vida ciberamenazas](datos-relevantes/ciclo-de-vida-ciberamenazas.md)
 * [Ataques mas comunes](datos-relevantes/ataques-mas-comunes.md)
 * [Metodos de infiltración](datos-relevantes/metodos-de-infiltracion.md)
-
-## CONCIENCIACIÓN
-
-* [Pildoras](concienciacion/pildoras/README.md)
-  * [Incidencias de Ciberseguridad](concienciacion/pildoras/incidencias-de-ciberseguridad.md)
-  * [Protocolo actuación ante un ataque cibernético](concienciacion/pildoras/protocolo-actuacion-ante-un-ataque-cibernetico.md)
-  * [Lista Robinson](concienciacion/pildoras/lista-robinson.md)
-  * [Seguridad en el teletrabajo](concienciacion/pildoras/seguridad-en-el-teletrabajo.md)
-  * [Peligros de la IA](concienciacion/pildoras/peligros-de-la-ia.md)
-* [Area transformación digital](concienciacion/area-transformacion-digital/README.md)
-  * [Protocolo ante ataque cibernético](concienciacion/area-transformacion-digital/protocolo-ante-ataque-cibernetico.md)
