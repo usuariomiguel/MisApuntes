@@ -13,3 +13,7 @@ Los sistemas de gestión de establecimientos hoteleros (PMS) gestionan todos los
 ### RPC (Remote Procedure Call)
 
 Llamada a procedimiento remoto o _**RPC**_ por sus siglas en inglés (_Remote Procedure Call_) es una técnica que utiliza el modelo cliente-servidor para ejecutar tareas en un proceso diferente como podría ser en una computadora remota. A veces solamente se le llama como llamada a una función o subrutina remota.
+
+### PnP (Plug-and-Play)
+
+**Plug-and-play** se refiere a la capacidad de un sistema informático de configurar automáticamente los dispositivos al conectarlos. Permite poder enchufar un dispositivo y utilizarlo inmediatamente, sin preocuparte de la configuración.
