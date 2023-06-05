@@ -1,11 +1,11 @@
 ---
-description: Información relevante para el area de ciberseguridad
+description: Información relevante en el ámbito de la informática.
 cover: >-
   https://images.unsplash.com/photo-1647087038801-bef2372d12c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxwYXJhZG9yfGVufDB8fHx8MTY4NDMzMDM2Nnww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Paradores
+# Inicio
 
 ## Presentación
 

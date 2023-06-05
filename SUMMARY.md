@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Paradores](README.md)
+* [Inicio](README.md)
 
 ## ENS
 
@@ -9,7 +9,7 @@
 
 ## Group 1
 
-* [RGPD](group-1/rgpd.md)
+* [RGPD](ens/rgpd.md)
 
 ## Datos-Relevantes
 
