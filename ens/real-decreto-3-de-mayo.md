@@ -17,7 +17,7 @@ description: 01/03/20
 **Por último,** la aprobación de este real decreto se incardina también en la ejecución del Plan de Digitalización de las Administraciones Públicas 2021-2025, uno de los instrumentos principales para el cumplimiento del Plan de Recuperación, Transformación y Resiliencia y su Componente 11 denominado «Modernización de las Administraciones Públicas», así como para el desarrollo de las inversiones y reformas previstas en la agenda España Digital 2025. Dicho Plan de Digitalización contempla expresamente, entre sus reformas, la actualización del ENS con el fin de hacer evolucionar la política de seguridad de todas las entidades del sector público español, tomando en cuenta las regulaciones de la Unión Europea dirigidas a incrementar el nivel de ciberseguridad de los sistemas de información. Dicha reforma se ve complementada con la constitución del Centro de Operaciones de Ciberseguridad de la Administración General del Estado y sus Organismos Públicos que servirá de referencia para las demás administraciones públicas y contribuirá a mejorar el cumplimiento del ENS de las entidades en su alcance de servicio. Esta previsión ha sido respaldada por el Acuerdo de Consejo de Ministros de 25 de mayo de 2021 sobre actuaciones urgentes en materia de ciberseguridad que mandata la tramitación y aprobación de un real decreto que **sustituya al Real Decreto 3/2010, de 8 de enero**, como medida de refuerzo del marco normativo.
 
 {% hint style="info" %}
-El real decreto se estructura en **cuarenta y un artículos** distribuidos en **siete capítulos**, tres disposiciones adicionales, una disposición transitoria, una disposición derogatoria, tres disposiciones finales y cuatro anexos
+El real decreto se estructura en **cuarenta y un artículos** distribuidos en **siete capítulos**, tres disposiciones adicionales, una disposición transitoria, una disposición derrogatoria, tres disposiciones finales y cuatro anexos
 {% endhint %}
 
 ### <mark style="color:blue;">Contenido</mark>
@@ -58,9 +58,9 @@ ENS debe cumplir siguientes principios básicos:
 
 ### Capitulo 4
 
-... Versa sobre la **auditoría de la seguridad**, el informe del **estado de la seguridad** y la **respuesta** **a incidentes de seguridad.**&#x20;
+... Versa sobre la **auditoría de la seguridad**, el informe del **estado de la seguridad** y la **respuesta** **a incidentes de seguridad.**
 
-**En el artículo 31**, detallando las características del procedimiento de auditoría, así como de los correspondientes informes.&#x20;
+**En el artículo 31**, detallando las características del procedimiento de auditoría, así como de los correspondientes informes.
 
 **El artículo 32**, relativo al informe del estado de la seguridad, destaca el papel de la Comisión Sectorial de Administración Electrónica en este ámbito, así como del CCN y los órganos colegiados competentes en el ámbito de la administración digital en la Administración General del Estado.
 
