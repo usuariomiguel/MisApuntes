@@ -17,3 +17,7 @@ Llamada a procedimiento remoto o _**RPC**_ por sus siglas en inglés (_Remote Pr
 ### PnP (Plug-and-Play)
 
 **Plug-and-play** se refiere a la capacidad de un sistema informático de configurar automáticamente los dispositivos al conectarlos. Permite poder enchufar un dispositivo y utilizarlo inmediatamente, sin preocuparte de la configuración.
+
+### MitM (Man in the Middle)
+
+Un ataque Man in the Middle (en adelante MitM) o ataque de intermediario es el método por el cual un hacker interviene en el tráfico de datos de dos partes vinculadas entre sí en una comunicación haciéndose pasar por cualquiera de ellas, haciéndoles creer que se están comunicando entre ellos cuando en realidad es el intermediario quien recibe la comunicación.
