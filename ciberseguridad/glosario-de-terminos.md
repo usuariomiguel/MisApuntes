@@ -21,3 +21,13 @@ Llamada a procedimiento remoto o _**RPC**_ por sus siglas en inglés (_Remote Pr
 ### MitM (Man in the Middle)
 
 Un ataque Man in the Middle (en adelante MitM) o ataque de intermediario es el método por el cual un hacker interviene en el tráfico de datos de dos partes vinculadas entre sí en una comunicación haciéndose pasar por cualquiera de ellas, haciéndoles creer que se están comunicando entre ellos cuando en realidad es el intermediario quien recibe la comunicación.
+
+{% embed url="https://es.godaddy.com/blog/que-es-una-ataque-man-in-the-middle/" %}
+
+### OSINT (_Open Source Intelligence_)
+
+Antiguamente se le llamaba asi a las herramientas para ratreo, traduccion y analisis con fines propagandisticos de guerra, actualmente, el termino es utilizado sobre todo en el ambito de la ciberseguridad. Las siglas OSINT hacen referencia hoy al **sistema para recopilar informacion de fuentes abiertas**, especialmente en internet.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="350"><figcaption><p>Ciclo OSINT</p></figcaption></figure>
+
+{% embed url="https://ciberpatrulla.com/que-es-osint/" %}
