@@ -16,6 +16,7 @@
     * [Lista Robinson](ciberseguridad/concienciacion/pildoras/lista-robinson.md)
     * [Seguridad en el teletrabajo](ciberseguridad/concienciacion/pildoras/seguridad-en-el-teletrabajo.md)
     * [Peligros de la IA](ciberseguridad/concienciacion/pildoras/peligros-de-la-ia.md)
+  * [Ataque dirigido](ciberseguridad/concienciacion/ataque-dirigido.md)
 
 ## Protección de Datos
 
