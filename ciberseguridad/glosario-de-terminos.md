@@ -31,3 +31,10 @@ Antiguamente se le llamaba asi a las herramientas para ratreo, traduccion y anal
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="350"><figcaption><p>Ciclo OSINT</p></figcaption></figure>
 
 {% embed url="https://ciberpatrulla.com/que-es-osint/" %}
+
+### RPD (Protocolo de escritorio remoto)
+
+Es el protocolo mas usado para software de escritorio remoto. RDP lo lanzó inicialmente Microsoft y está disponible para la mayoría de los sistemas operativos Windows, también se puede usar con los sistemas operativos Mac.
+
+{% embed url="https://www.cloudflare.com/es-es/learning/access-management/what-is-the-remote-desktop-protocol/" %}
+
