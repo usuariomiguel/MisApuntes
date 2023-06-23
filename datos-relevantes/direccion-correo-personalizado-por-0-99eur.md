@@ -14,8 +14,6 @@ Ingresar dominio a con el plan gratuito de hosting.
 
 ### <mark style="color:blue;">Brevo</mark>
 
-{% embed url="https://www.brevo.com/" %}
-
 #### Insertar Dominio en Brevo.
 
 1. IP y remitentes
@@ -27,6 +25,8 @@ Ingresar dominio a con el plan gratuito de hosting.
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="179"><figcaption></figcaption></figure>
 
 </div>
+
+{% embed url="https://www.brevo.com/" %}
 
 ### <mark style="color:blue;">Agregar SMTP en GMAIL</mark>
 
