@@ -17,6 +17,8 @@
     * [Seguridad en el teletrabajo](ciberseguridad/concienciacion/pildoras/seguridad-en-el-teletrabajo.md)
     * [Peligros de la IA](ciberseguridad/concienciacion/pildoras/peligros-de-la-ia.md)
   * [Ataque dirigido](ciberseguridad/concienciacion/ataque-dirigido.md)
+* [Hacking Ético](ciberseguridad/hacking-etico/README.md)
+  * [Red Team](ciberseguridad/hacking-etico/red-team.md)
 
 ## Protección de Datos
 

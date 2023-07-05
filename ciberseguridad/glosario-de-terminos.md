@@ -38,3 +38,8 @@ Es el protocolo mas usado para software de escritorio remoto. RDP lo lanzó inic
 
 {% embed url="https://www.cloudflare.com/es-es/learning/access-management/what-is-the-remote-desktop-protocol/" %}
 
+### TMP (**Trusted Platform Module**)
+
+Es el nombre de una especificación publicada que detalla un criptoprocesador seguro que puede almacenar claves de cifrado para proteger información, así como el nombre general de las implementaciones de dicha especificación, frecuentemente llamadas el "chip TPM" o "dispositivo de seguridad TPM".
+
+{% embed url="https://es.wikipedia.org/wiki/TPM_(inform%C3%A1tica)" %}
