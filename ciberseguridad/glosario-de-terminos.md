@@ -43,3 +43,11 @@ Es el protocolo mas usado para software de escritorio remoto. RDP lo lanzó inic
 Es el nombre de una especificación publicada que detalla un criptoprocesador seguro que puede almacenar claves de cifrado para proteger información, así como el nombre general de las implementaciones de dicha especificación, frecuentemente llamadas el "chip TPM" o "dispositivo de seguridad TPM".
 
 {% embed url="https://es.wikipedia.org/wiki/TPM_(inform%C3%A1tica)" %}
+
+### LOPD (Ley Orgánica de Protección de Datos de Carácter Personal)
+
+La **Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal** (LOPD) fue una ley orgánica española, derogada con la entrada en vigor, el 5 de diciembre de 2018, de la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales, que adapta la **legislación española** al Reglamento General de Protección de Datos de la Unión Europea.
+
+### DMZ (ZONA DESMILITARIZADA)
+
+El objetivo de una _DMZ_ es que las conexiones desde la red externa a la DMZ estén permitidas, mientras que _en general_ las conexiones desde la _DMZ_ no se permitan a la red interna (los equipos de la _DMZ_ no deben conectarse directamente con la red interna). Esto permite que los equipos de la DMZ puedan dar servicios a la red externa, a la vez que protegen la red interna en el caso de que unos intrusos comprometan la seguridad de los equipos situados en la zona desmilitarizada. Para cualquiera de la red externa que quiera conectarse ilegalmente a la red interna, la zona desmilitarizada se convierte en un callejón sin salida.
