@@ -46,3 +46,11 @@
 * [Metodos de infiltración](datos-relevantes/metodos-de-infiltracion.md)
 * [Direccion correo personalizado por 0,99€](datos-relevantes/direccion-correo-personalizado-por-0-99eur.md)
 * [Medidas de prevencion de Incidentes en empresas](datos-relevantes/medidas-de-prevencion-de-incidentes-en-empresas.md)
+
+## Academia S4vitar
+
+* [Introducción a Linux](academia-s4vitar/introduccion-a-linux/README.md)
+  * [Comandos Básicos Linux](academia-s4vitar/introduccion-a-linux/comandos-basicos-linux.md)
+  * [Control del flujo stderr-stdout, operadores y procesos en segundo plano](academia-s4vitar/introduccion-a-linux/control-del-flujo-stderr-stdout-operadores-y-procesos-en-segundo-plano.md)
+  * [Descriptores de archivo](academia-s4vitar/introduccion-a-linux/descriptores-de-archivo.md)
+  * [Page](academia-s4vitar/introduccion-a-linux/page.md)
