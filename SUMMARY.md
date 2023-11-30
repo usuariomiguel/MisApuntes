@@ -1,6 +1,6 @@
 # Table of contents
 
-* [INICIO](README.md)
+* [Home](README.md)
 
 ## CiberSeguridad
 
@@ -19,12 +19,15 @@
 * [🔒 Blue Team](ciberseguridad/blue-team/README.md)
   * [Concienciación](ciberseguridad/blue-team/concienciacion/README.md)
     * [Pildoras](ciberseguridad/blue-team/concienciacion/pildoras/README.md)
+      * [Copia Oculta (CCO) en el correo](ciberseguridad/blue-team/concienciacion/pildoras/copia-oculta-cco-en-el-correo.md)
       * [Incidencias de Ciberseguridad](ciberseguridad/blue-team/concienciacion/pildoras/incidencias-de-ciberseguridad.md)
       * [Protocolo actuación ante un ataque cibernético](ciberseguridad/blue-team/concienciacion/pildoras/protocolo-actuacion-ante-un-ataque-cibernetico.md)
       * [Lista Robinson](ciberseguridad/blue-team/concienciacion/pildoras/lista-robinson.md)
       * [Seguridad en el teletrabajo](ciberseguridad/blue-team/concienciacion/pildoras/seguridad-en-el-teletrabajo.md)
       * [Peligros de la IA](ciberseguridad/blue-team/concienciacion/pildoras/peligros-de-la-ia.md)
-    * [Ataque dirigido](ciberseguridad/blue-team/concienciacion/ataque-dirigido.md)
+    * [Ataque Dirigido](ciberseguridad/blue-team/concienciacion/ataque-dirigido/README.md)
+      * [USBs](ciberseguridad/blue-team/concienciacion/ataque-dirigido/usbs.md)
+      * [Phishing](ciberseguridad/blue-team/concienciacion/ataque-dirigido/phishing.md)
   * [Certificación ENS](ciberseguridad/blue-team/certificacion-ens/README.md)
     * [Real Decreto 3 de Mayo](ciberseguridad/blue-team/certificacion-ens/real-decreto-3-de-mayo.md)
     * [Herramientas CCN](ciberseguridad/blue-team/certificacion-ens/herramientas-ccn/README.md)

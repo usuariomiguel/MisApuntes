@@ -2,7 +2,7 @@
 description: Concienciación empleados
 ---
 
-# Ataque dirigido
+# Phishing
 
 ## ATAQUE DIRIGIDO CON GOPHISH
 
@@ -41,15 +41,15 @@ Otra plataforma donde se puede poner a pruba los empleado es Microsoft Defender.
 * Intalar gophish desde github o la pagina oficial.
 * Una vez instalado, por defecto se crear en el servidor local, se puede cambiar la ip al servidor en el fichero .json)
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Acceder al portal de gophish con 127.0.0.1:3333 y el usuario y contraseña crespondientes.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Añadir un nuevo perfil desde donde se envia el correo electronico.
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt="" width="342"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (18).png" alt="" width="342"><figcaption></figcaption></figure>
 
 #### <mark style="color:blue;">Ahora que necesitas para crear tu campaña</mark>
 

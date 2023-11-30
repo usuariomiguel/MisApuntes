@@ -5,9 +5,9 @@ cover: >-
 coverY: 0
 ---
 
-# Inicio
+# Home
 
-## Presentación
+## Introdución
 
 Tengo el placer de presentarles nuestra página informativa sobre seguridad y protección de datos, una plataforma diseñada para brindar conocimientos especializados y recursos actualizados en el ámbito de la protección de datos personales. En un mundo digital en constante evolución, donde la privacidad y la seguridad se han convertido en prioridades fundamentales, nuestra página tiene como objetivo proporcionar información confiable y práctica para ayudar a las personas y organizaciones a proteger sus datos y salvaguardar su privacidad.
 
