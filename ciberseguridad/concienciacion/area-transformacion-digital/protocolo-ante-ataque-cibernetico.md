@@ -1,2 +1,0 @@
-# Protocolo ante ataque cibernético
-

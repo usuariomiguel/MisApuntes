@@ -1,2 +1,0 @@
-# Area transformación digital
-
