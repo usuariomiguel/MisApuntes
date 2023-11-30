@@ -12,7 +12,7 @@ Por crisis se entiende cualquier circunstancia, deliberada o fortuita, ocasionad
 
 Ante una crisis, tres son los elementos a tener en cuenta: la **amenaza** a la organización, el **elemento sorpresa** (imprevisible e inesperado) y el **corto período** de tiempo que se exige para la toma de decisiones.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Las capacidades y estructuras de gestión necesarias para hacer frente a una crisis no se improvisan cuando esta surge, es imprescindible desarrollarlas **con antelación.**
@@ -28,7 +28,7 @@ Fuente: [CCN-Cert Informe de Buenas Prácticas en la Gestión de cibercrisis](ht
 
 Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Resumen de buenas practicas CCN-CERT</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Resumen de buenas practicas CCN-CERT</p></figcaption></figure>
 
 1.  **Liderazgo:**&#x20;
 
@@ -40,11 +40,11 @@ Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 3.  **Control permanente de la superficie de exposición**
 
     Un elemento clave es la evaluación de la superficie de exposición de las entidades, identificando las vulnerabilidades asociadas a sus servicios y aplicaciones.
@@ -59,11 +59,11 @@ Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 4. **Respuesta**
    1.  **Diagnóstico inicial y escenarios posibles**
 
