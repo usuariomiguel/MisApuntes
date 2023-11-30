@@ -28,7 +28,7 @@ Fuente: [CCN-Cert Informe de Buenas Prácticas en la Gestión de cibercrisis](ht
 
 Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Resumen de buenas practicas CCN-CERT</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Resumen de buenas practicas CCN-CERT</p></figcaption></figure>
 
 1.  **Liderazgo:**&#x20;
 
@@ -40,7 +40,7 @@ Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -59,7 +59,7 @@ Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 
 
