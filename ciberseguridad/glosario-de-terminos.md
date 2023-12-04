@@ -48,6 +48,14 @@ Es el nombre de una especificación publicada que detalla un criptoprocesador se
 
 La **Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal** (LOPD) fue una ley orgánica española, derogada con la entrada en vigor, el 5 de diciembre de 2018, de la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales, que adapta la **legislación española** al Reglamento General de Protección de Datos de la Unión Europea.
 
-### DMZ (ZONA DESMILITARIZADA)
+### DMZ (Zona Desmilitarizada)
 
 El objetivo de una _DMZ_ es que las conexiones desde la red externa a la DMZ estén permitidas, mientras que _en general_ las conexiones desde la _DMZ_ no se permitan a la red interna (los equipos de la _DMZ_ no deben conectarse directamente con la red interna). Esto permite que los equipos de la DMZ puedan dar servicios a la red externa, a la vez que protegen la red interna en el caso de que unos intrusos comprometan la seguridad de los equipos situados en la zona desmilitarizada. Para cualquiera de la red externa que quiera conectarse ilegalmente a la red interna, la zona desmilitarizada se convierte en un callejón sin salida.
+
+### DLP (Software de prevención de pérdida de datos)
+
+La prevención de pérdida de datos (DLP) es una solución de seguridad que identifica y contribuye a evitar el uso compartido, la transferencia o el uso indebidos o no seguros de datos confidenciales. La DLP es una combinación de personas, procesos y tecnología que permite detectar y prevenir la filtración de datos confidenciales. Una solución de DLP utiliza herramientas como el software antivirus, la IA y el aprendizaje automático para detectar actividades sospechosas comparando el contenido con la directiva DLP de la organización, que define cómo la organización etiqueta, comparte y protege los datos sin exponerlos a usuarios no autorizados. La DLP ayuda a las organizaciones a evitar la pérdida o divulgación no autorizada de datos confidenciales y a cumplir con los requisitos normativos, como la Ley de transferencia y responsabilidad de seguros de salud (HIPAA) y el Reglamento general de protección de datos (RGPD).
+
+### WAF (Web application firewall)
+
+Un firewall de aplicaciones web (WAF) es un tipo de firewall que supervisa, filtra o bloquea el tráfico HTTP hacia y desde una aplicación web. Se diferencia de un firewall normal en que puede filtrar el contenido de aplicaciones web específicas, mientras que un firewall de red protege el tráfico entre los servidores.
