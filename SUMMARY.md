@@ -36,6 +36,13 @@
       * [CLARA](ciberseguridad/blue-team/certificacion-ens/herramientas-ccn/clara.md)
       * [LORETO](ciberseguridad/blue-team/certificacion-ens/herramientas-ccn/loreto.md)
       * [INES](ciberseguridad/blue-team/certificacion-ens/herramientas-ccn/ines.md)
+    * [Plan de Formacion y Concienciacion ](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/README.md)
+      * [INTRODUCCIÓN](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/introduccion.md)
+      * [MÓDULO DE CONCIENCIACIÓN EN CIBERSEGURIDAD Y ENS](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-de-concienciacion-en-ciberseguridad-y-ens.md)
+      * [MÓDULO BÁSICO DE CIBERSEGURIDAD](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-basico-de-ciberseguridad.md)
+      * [MÓDULO DE SEGURIDAD EN CORREO ELECTRÓNICO](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-de-seguridad-en-correo-electronico.md)
+      * [MÓDULO DE NAVEGACIÓN SEGURA](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-de-navegacion-segura.md)
+      * [MODULO DE SEGURIDAD EN DISPOSITIVOS MÓVILES](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-de-seguridad-en-dispositivos-moviles.md)
 
 ## Protección de Datos
 
