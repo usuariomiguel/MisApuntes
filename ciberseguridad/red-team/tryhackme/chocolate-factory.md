@@ -43,13 +43,9 @@ stty raw -echo; fg
 export TERM=xterm
 ```
 
-Dentro de la carpeta /var/www/html llama la atencion el fichero key\_rev\_key, si filtramos por string el fichero podemos observar una key
+Dentro de la carpeta /var/www/html llama la atencion el fichero key\_rev\_key, si filtramos por string el fichero podemos observar la primea key
 
 <figure><img src="../../../.gitbook/assets/image (29).png" alt="" width="313"><figcaption></figcaption></figure>
-
-**Answer: Enter the key you found!**
-
->
 
 Navegando por los directorios nos encontramos con un fichero donde se encuntra la clave publica y privada de ssh del usuario charlie&#x20;
 
@@ -69,11 +65,9 @@ Accedemos a la flag de usuario
 
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-**Enter the user flag**
+Podemos ver la password de charlie en el fichero validate.php
 
->
-
-
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ### Escalada de privilegios
 
@@ -91,6 +85,7 @@ sudo vi -c ':!/bin/sh' /dev/null
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
+Introducimos la flag que nos encontramos en el script de pyhton para sacar la flag de root
 
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-**Enter the user flag**&#x20;
