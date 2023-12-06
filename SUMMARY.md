@@ -69,3 +69,5 @@
     * [Privilegios especiales - Capabilities](academia-s4vitar/introduccion-a-linux/permisos/privilegios-especiales-capabilities.md)
   * [Estructura de directorios del sistema](academia-s4vitar/introduccion-a-linux/estructura-de-directorios-del-sistema.md)
   * [Uso de bashrc y zshrc](academia-s4vitar/introduccion-a-linux/uso-de-bashrc-y-zshrc.md)
+  * [Uso y manejo de Tmux](academia-s4vitar/introduccion-a-linux/uso-y-manejo-de-tmux.md)
+  * [Búsquedas a nivel de sistema](academia-s4vitar/introduccion-a-linux/busquedas-a-nivel-de-sistema.md)
