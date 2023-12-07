@@ -9,7 +9,7 @@ description: // Tutorial //
 Identificamos los puertos abiertos de la maquina victima
 
 ```
-nmap IP -Pn -v -n --min-rate 3000
+nmap IP -Pn -p- -v -n --min-rate 3000
 ```
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt="" width="332"><figcaption></figcaption></figure>
