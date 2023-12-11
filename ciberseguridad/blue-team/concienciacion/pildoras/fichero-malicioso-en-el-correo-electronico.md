@@ -1,5 +1,11 @@
 # Fichero malicioso en el correo electronico
 
+<div align="center" data-full-width="false">
+
+<figure><img src="../../../../.gitbook/assets/archivos-maliciosos-reciben-empresas-espana-correo-electronico.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
 ## Los archivos maliciosos en los correos electrónicos
 
 Los archivos maliciosos en los correos electrónicos son una amenaza real y pueden causar daños significativos. Aquí tienes una píldora de concienciación sobre este tema:
