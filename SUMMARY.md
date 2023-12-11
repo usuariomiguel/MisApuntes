@@ -22,6 +22,8 @@
 * [🔒 Blue Team](ciberseguridad/blue-team/README.md)
   * [Concienciación](ciberseguridad/blue-team/concienciacion/README.md)
     * [Pildoras](ciberseguridad/blue-team/concienciacion/pildoras/README.md)
+      * [Phishing](ciberseguridad/blue-team/concienciacion/pildoras/phishing.md)
+      * [Fichero malicioso en el correo electronico](ciberseguridad/blue-team/concienciacion/pildoras/fichero-malicioso-en-el-correo-electronico.md)
       * [Copia Oculta (CCO) en el correo](ciberseguridad/blue-team/concienciacion/pildoras/copia-oculta-cco-en-el-correo.md)
       * [Incidencias de Ciberseguridad](ciberseguridad/blue-team/concienciacion/pildoras/incidencias-de-ciberseguridad.md)
       * [Protocolo actuación ante un ataque cibernético](ciberseguridad/blue-team/concienciacion/pildoras/protocolo-actuacion-ante-un-ataque-cibernetico.md)
