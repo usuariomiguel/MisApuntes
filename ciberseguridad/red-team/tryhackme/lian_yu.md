@@ -10,7 +10,7 @@ nmap IP -Pn -p- -v -n --min-rate 3000
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -20,7 +20,7 @@ Vamos a hacer un gobuster en busca de directorios web
 gobuster dir -u URL -w Diccionary -x .php,.html,.txt
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En el código de la página de island vemos una palabra secreta -> **vigilante**; este pobablemente sea el nombre de usuario del servidor ftp o ssh.
 

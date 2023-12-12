@@ -6,13 +6,8 @@ La contraseña esta en data.txt, esta archivo esta dumpeado en hexadecimal y var
 // Some code
 7z l comprimido // para ver el interior
 7z x comprimido // para descomprimir
+The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 ```
-
-
-
-
-
-
 
 Te comparto por aquí el script que nos hemos creado para la clase actual, en caso de que le quieras echar un ojo y tenerlo a mano:
 

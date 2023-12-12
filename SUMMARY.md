@@ -87,3 +87,8 @@
     * [Codificación y decodificación en base64 \[Bandit10\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/codificacion-y-decodificacion-en-base64-bandit10.md)
     * [Cifrado césar y uso de tr para la traducción de caracteres \[Bandit11\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/cifrado-cesar-y-uso-de-tr-para-la-traduccion-de-caracteres-bandit11.md)
     * [Creamos un descompresor recursivo automático de archivos en Bash \[Bandit12\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/creamos-un-descompresor-recursivo-automatico-de-archivos-en-bash-bandit12.md)
+    * [Manejo de pares de claves y conexiones SSH \[Bandit13\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/manejo-de-pares-de-claves-y-conexiones-ssh-bandit13.md)
+    * [Uso de netcat para realizar conexiones \[Bandit14\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/uso-de-netcat-para-realizar-conexiones-bandit14.md)
+    * [Uso de conexiones encriptadas \[Bandit15\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/uso-de-conexiones-encriptadas-bandit15.md)
+    * [Escaneo de puertos en Bash \[Bandit16\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/escaneo-de-puertos-en-bash-bandit16.md)
+    * [Detección de diferencias entre archivos \[Bandit17\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/deteccion-de-diferencias-entre-archivos-bandit17.md)
