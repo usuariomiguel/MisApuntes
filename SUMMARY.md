@@ -92,3 +92,5 @@
     * [Uso de conexiones encriptadas \[Bandit15\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/uso-de-conexiones-encriptadas-bandit15.md)
     * [Escaneo de puertos en Bash \[Bandit16\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/escaneo-de-puertos-en-bash-bandit16.md)
     * [Detección de diferencias entre archivos \[Bandit17\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/deteccion-de-diferencias-entre-archivos-bandit17.md)
+    * [Ejecución de comandos por SSH \[Bandit18\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/ejecucion-de-comandos-por-ssh-bandit18.md)
+    * [Abusando de privilegio SUID para migrar de usuario \[Bandit 19\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/abusando-de-privilegio-suid-para-migrar-de-usuario-bandit-19.md)
