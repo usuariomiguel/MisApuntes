@@ -9,7 +9,7 @@ To gain access to the next level, you should use the setuid binary in the homedi
 SUID significa “establecer ID de usuario” (Set owner User ID) y SGID significa “establecer ID de grupo” (Set Group ID up on execution).
 
 ```
-// Ya que tenemos permiso de ejecucion del archivon dentro de bandit19 lo ejecutamos
+// Ya que tenemos permiso de ejecucion del archivo dentro de bandit19 lo ejecutamos
 ./bandit20-do cat /etc/bandit_pass/bandit20
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 ```

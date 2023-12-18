@@ -6,6 +6,7 @@
 
 * [Glosario de Terminos](ciberseguridad/glosario-de-terminos.md)
 * [☣ Red Team](ciberseguridad/red-team/README.md)
+  * [Herramientas RedTeam](ciberseguridad/red-team/herramientas-redteam.md)
   * [TryHackMe](ciberseguridad/red-team/tryhackme/README.md)
     * [Chocolate Factory](ciberseguridad/red-team/tryhackme/chocolate-factory.md)
     * [Lian\_Yu](ciberseguridad/red-team/tryhackme/lian\_yu.md)
@@ -63,7 +64,7 @@
 
 ## Academia S4vitar
 
-* [Introducción a Linux](academia-s4vitar/introduccion-a-linux/README.md)
+* [🎴 Introducción a Linux](academia-s4vitar/introduccion-a-linux/README.md)
   * [Comandos Básicos Linux](academia-s4vitar/introduccion-a-linux/comandos-basicos-linux.md)
   * [Control del flujo stderr-stdout, operadores y procesos en segundo plano](academia-s4vitar/introduccion-a-linux/control-del-flujo-stderr-stdout-operadores-y-procesos-en-segundo-plano.md)
   * [Descriptores de archivo](academia-s4vitar/introduccion-a-linux/descriptores-de-archivo.md)

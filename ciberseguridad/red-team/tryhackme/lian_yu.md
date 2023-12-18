@@ -10,7 +10,7 @@ nmap IP -Pn -p- -v -n --min-rate 3000
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -76,9 +76,22 @@ Ya tenemos la contraseña para aceder al servidor ftp con el usuario vigilante y
 
 </div>
 
-Probamos a encontrar la **contraseña** del usuario **slade** del servidor **ssh** por medio de fuerza bruta
+Si examinamos las imagenes que descargamos del FTP, encontramos infromacion oculta. Usamos stegseek para hacer una fuerza bruta.
 
 ```
-hydra -l slade -P dictionary -IP ssh -t4 -v
+stegseek -sf aa.jpg /usr/share/wordlists/rockyou.txt
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[i] Found passphrase: "password"         
+[i] Original filename: "ss.zip".
+[i] Extracting to "aa.jpg.out".
+
+// Extraemos
+7z x aa.jpg.out
 ```
 
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
