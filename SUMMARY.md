@@ -95,3 +95,8 @@
     * [Detección de diferencias entre archivos \[Bandit17\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/deteccion-de-diferencias-entre-archivos-bandit17.md)
     * [Ejecución de comandos por SSH \[Bandit18\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/ejecucion-de-comandos-por-ssh-bandit18.md)
     * [Abusando de privilegio SUID para migrar de usuario \[Bandit 19\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/abusando-de-privilegio-suid-para-migrar-de-usuario-bandit-19.md)
+    * [Jugando con conexiones \[Bandit20\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/jugando-con-conexiones-bandit20.md)
+    * [Abusando de tareas Cron \[Bandit 21-22-23\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/abusando-de-tareas-cron-bandit-21-22-23/README.md)
+      * [Abusando de tareas Cron \[Bandit21\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/abusando-de-tareas-cron-bandit-21-22-23/abusando-de-tareas-cron-bandit21.md)
+      * [Abusando de tareas Cron \[Bandit22\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/abusando-de-tareas-cron-bandit-21-22-23/abusando-de-tareas-cron-bandit22.md)
+      * [Abusando de tareas Cron \[Bandit23\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/abusando-de-tareas-cron-bandit-21-22-23/abusando-de-tareas-cron-bandit23.md)

@@ -12,6 +12,9 @@ SUID significa “establecer ID de usuario” (Set owner User ID) y SGID signifi
 // Ya que tenemos permiso de ejecucion del archivo dentro de bandit19 lo ejecutamos
 ./bandit20-do cat /etc/bandit_pass/bandit20
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+
+// o abrir una bash
+./bandit20-do bash -p
 ```
 
 
