@@ -1,17 +1,22 @@
 # Abusando de tareas Cron \[Bandit21]
 
-Cron es un administrador de tareas de Linux que permite ejecutar comandos en un momento determinado, por ejemplo, cada minuto, día, semana o mes. Si queremos trabajar con cron, podemos hacerlo a través del comando **crontab**.
+Sacar la password de bandit22, fijandonos en las tareas crontab /etc/cron.d&#x20;
 
-El formato de configuración de cron es el siguiente: Minuto Hora Dia-del-Mes Mes Dia-de-la-Semana Comando-a-Ejecutar
+```
+// Leemos el fichero cronjob_bandit22 y vemos que lo que hace
 
-El intervalo de tiempo se especifica mediante 5 campos que representan, de izquierda a derecha:
+@reboot bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
+* * * * * bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
 
-* Minutos: de 0 a 59.
-* Horas: de 0 a 23.
-* Día del mes: de 1 a 31.
-* Mes: de 1 a 12.
-* Día de la semana: de 1 a 6 lunes a sábado (1=lunes, 2=martes, etc.) y 0 o 7 el domingo.
+//vamos a ver la ruta donde se esta llevando a cabo la accion
 
-Si quisiéramos especificar todos los valores posibles de un parámetro (minutos, horas, etc.) podemos hacer uso del asterisco (\*). Esto implica que si en lugar de un número utilizamos un asterisco, el comando indicado se ejecutará cada minuto, hora, día de mes, mes o día de la semana, como en el siguiente ejemplo:
+bandit21@bandit:/usr/bin$ cat cronjob_bandit22.sh
+#!/bin/bash
+chmod 644 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 
-\* \* \* \* \* /home/user/script.sh
+// vemos que el script enviamos la password de bandit22 y tenemos permiso de lectura
+
+cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
+```
