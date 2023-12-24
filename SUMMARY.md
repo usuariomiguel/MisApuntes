@@ -101,3 +101,4 @@
       * [Abusando de tareas Cron \[Bandit22\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/abusando-de-tareas-cron-bandit-21-22-23/abusando-de-tareas-cron-bandit22.md)
       * [Abusando de tareas Cron \[Bandit23\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/abusando-de-tareas-cron-bandit-21-22-23/abusando-de-tareas-cron-bandit23.md)
     * [Comprendiendo las expresiones de las tareas Cron](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/comprendiendo-las-expresiones-de-las-tareas-cron.md)
+    * [Fuerza bruta aplicada a conexiones \[Bandit24\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/fuerza-bruta-aplicada-a-conexiones-bandit24.md)
