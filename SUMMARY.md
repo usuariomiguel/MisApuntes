@@ -66,6 +66,7 @@
 
 * [🎴 Introducción a Linux](academia-s4vitar/introduccion-a-linux/README.md)
   * [Comandos Básicos Linux](academia-s4vitar/introduccion-a-linux/comandos-basicos-linux.md)
+  * [Análisis de patrones](academia-s4vitar/introduccion-a-linux/analisis-de-patrones.md)
   * [Control del flujo stderr-stdout, operadores y procesos en segundo plano](academia-s4vitar/introduccion-a-linux/control-del-flujo-stderr-stdout-operadores-y-procesos-en-segundo-plano.md)
   * [Descriptores de archivo](academia-s4vitar/introduccion-a-linux/descriptores-de-archivo.md)
   * [Permisos](academia-s4vitar/introduccion-a-linux/permisos/README.md)
