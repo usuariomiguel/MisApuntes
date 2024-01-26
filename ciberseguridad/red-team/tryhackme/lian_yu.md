@@ -95,3 +95,25 @@ StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 <figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
+
+Ya tenemos la contraseña de ssh del usuario slade, por lo tanto nos conectamos a la maquina con el usuario slade y vemos la flag user.txt
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (36).png" alt="" width="369"><figcaption></figcaption></figure>
+
+</div>
+
+Ahora buscamos la manera de escalar privilegios, probamos con sudo -l y vemos que podemos ejecutar como root /usr/bin/pkexec, por lo que buscando informacion en GTFObins probamos con el comando y nos permite ser root y ver la ultima flag
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (37).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (38).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
