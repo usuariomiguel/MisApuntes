@@ -112,3 +112,5 @@
       * [Operando con proyectos de Github](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/operando-con-proyectos-de-github-bandit-27-28-29-30-31/operando-con-proyectos-de-github-4.md)
     * [Argumentos posicionales en Bash \[Bandit 32\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/argumentos-posicionales-en-bash-bandit-32.md)
   * [Scripts Bash](academia-s4vitar/introduccion-a-linux/scripts-bash.md)
+* [🛤 Introducción al Hacking](academia-s4vitar/introduccion-al-hacking/README.md)
+  * [Page](academia-s4vitar/introduccion-al-hacking/page.md)
