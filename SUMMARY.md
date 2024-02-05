@@ -113,4 +113,4 @@
     * [Argumentos posicionales en Bash \[Bandit 32\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/argumentos-posicionales-en-bash-bandit-32.md)
   * [Scripts Bash](academia-s4vitar/introduccion-a-linux/scripts-bash.md)
 * [🛤 Introducción al Hacking](academia-s4vitar/introduccion-al-hacking/README.md)
-  * [Page](academia-s4vitar/introduccion-al-hacking/page.md)
+  * [nmap](academia-s4vitar/introduccion-al-hacking/nmap.md)
