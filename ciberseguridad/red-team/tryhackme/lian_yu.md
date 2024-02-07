@@ -10,7 +10,7 @@ nmap IP -Pn -p- -v -n --min-rate 3000
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -20,37 +20,37 @@ Vamos a hacer un gobuster en busca de directorios web
 gobuster dir -u URL -w Diccionary -x .php,.html,.txt
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En el código de la página de island vemos una palabra secreta -> **vigilante**; este pobablemente sea el nombre de usuario del servidor ftp o ssh.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vamos a buscar directorios dentro de **island** con nuestra herramienta gobuster; encontraremos el directorio **2100:**
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Resultado de Gobuster</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Resultado de Gobuster</p></figcaption></figure>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption><p>Página 2100</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption><p>Página 2100</p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Código fuente de la web en 2100</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Código fuente de la web en 2100</p></figcaption></figure>
 
 </div>
 
 En el comentario de la pagina de 2100 dice que hay un archivo .ticket, por lo que vamos a hacer una fuerza bruta de ficheros/directorios con **gobuster** dentro del directorio **2100:**
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Encontramos el token **green\_arrow.ticket:**
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,7 +58,7 @@ El token esta en **base58** , vamos a desencriptarlo para sacar la contraseña r
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="563"><figcaption><p><strong>http://gchq.github.io/Cyberchef/</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt="" width="563"><figcaption><p><strong>http://gchq.github.io/Cyberchef/</strong></p></figcaption></figure>
 
 </div>
 
@@ -92,7 +92,7 @@ StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

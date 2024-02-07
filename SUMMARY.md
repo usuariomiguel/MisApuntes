@@ -126,3 +126,8 @@
     * [Enumeración de subdominios](academia-s4vitar/introduccion-al-hacking/reconocimiento/enumeracion-de-subdominios.md)
     * [Credenciales y brechas de seguridad](academia-s4vitar/introduccion-al-hacking/reconocimiento/credenciales-y-brechas-de-seguridad.md)
     * [Identificación de las tecnologías en una página web](academia-s4vitar/introduccion-al-hacking/reconocimiento/identificacion-de-las-tecnologias-en-una-pagina-web.md)
+    * [Fuzzing y enumeración de archivos en un servidor web](academia-s4vitar/introduccion-al-hacking/reconocimiento/fuzzing-y-enumeracion-de-archivos-en-un-servidor-web/README.md)
+      * [Fuzzing y enumeración de archivos en un servidor web (1/2)](academia-s4vitar/introduccion-al-hacking/reconocimiento/fuzzing-y-enumeracion-de-archivos-en-un-servidor-web/fuzzing-y-enumeracion-de-archivos-en-un-servidor-web-1-2.md)
+      * [Fuzzing y enumeración de archivos en un servidor web (2/2)](academia-s4vitar/introduccion-al-hacking/reconocimiento/fuzzing-y-enumeracion-de-archivos-en-un-servidor-web/fuzzing-y-enumeracion-de-archivos-en-un-servidor-web-2-2.md)
+    * [Google Dorks / Google Hacking (Los 18 Dorks más usados)](academia-s4vitar/introduccion-al-hacking/reconocimiento/google-dorks-google-hacking-los-18-dorks-mas-usados.md)
+    * [Identificación y verificación externa de la versión del sistema operativo](academia-s4vitar/introduccion-al-hacking/reconocimiento/identificacion-y-verificacion-externa-de-la-version-del-sistema-operativo.md)
