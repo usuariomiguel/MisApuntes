@@ -14,6 +14,8 @@ Escaneo de TCP:
 
 ```
 nmap -p- -T5 --open IP -v -n -Pn
+//Escaneo TCP SYN para ahorrar tiempo usando parametro -Ss. Porque  escáner envía un paquete SYN al puerto de destino y espera una respuesta SYN/ACK. Si recibe esta respuesta, el escáner envía un paquete RST para cerrar la conexión.
+// -T ajusta el temporizado 0 a 5 siendo 5 el mas rapido 
 ```
 
 Escaneo de UDP:
