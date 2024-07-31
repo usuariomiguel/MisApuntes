@@ -5,3 +5,9 @@
 La herramienta stegseek es un descifrador de contraseñas para archivos ocultos. Es una bifurcación del proyecto original steghide y es miles de veces más rápida que otros descifradores, pudiendo ejecutar la totalidad de rockyou.txt en menos de 2 segundos. Stegseek también se puede utilizar para extraer metadatos de steghide sin contraseña, lo que se puede utilizar para probar si un archivo contiene datos ocultos.
 
 {% embed url="https://github.com/RickdeJager/stegseek" %}
+
+### Camphish
+
+Camphish es una herramienta con la que puedes conseguir tomar fotos de la camara frontal del movil o la webcam de un PC. Camphish crea una web web falsa con php y alojada en un servidor con ngrok o serveo. Para que funcione se necesita que el usuario permita el acceso a la camara una vez acceda a la web. &#x20;
+
+{% embed url="https://github.com/techchipnet/CamPhish" %}
