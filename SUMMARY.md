@@ -5,7 +5,7 @@
 ## CiberSeguridad
 
 * [Glosario de Terminos](ciberseguridad/glosario-de-terminos.md)
-* [☣ Red Team](ciberseguridad/red-team/README.md)
+* [☣️ Red Team](ciberseguridad/red-team/README.md)
   * [Herramientas RedTeam](ciberseguridad/red-team/herramientas-redteam.md)
   * [TryHackMe](ciberseguridad/red-team/tryhackme/README.md)
     * [Chocolate Factory](ciberseguridad/red-team/tryhackme/chocolate-factory.md)
@@ -31,6 +31,7 @@
       * [Lista Robinson](ciberseguridad/blue-team/concienciacion/pildoras/lista-robinson.md)
       * [Seguridad en el teletrabajo](ciberseguridad/blue-team/concienciacion/pildoras/seguridad-en-el-teletrabajo.md)
       * [Peligros de la IA](ciberseguridad/blue-team/concienciacion/pildoras/peligros-de-la-ia.md)
+      * [Extorsión a cambio de Bitcoin](ciberseguridad/blue-team/concienciacion/pildoras/extorsion-a-cambio-de-bitcoin.md)
     * [Ataque Dirigido](ciberseguridad/blue-team/concienciacion/ataque-dirigido/README.md)
       * [USBs](ciberseguridad/blue-team/concienciacion/ataque-dirigido/usbs.md)
       * [Phishing](ciberseguridad/blue-team/concienciacion/ataque-dirigido/phishing.md)
@@ -112,7 +113,7 @@
       * [Operando con proyectos de Github](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/operando-con-proyectos-de-github-bandit-27-28-29-30-31/operando-con-proyectos-de-github-4.md)
     * [Argumentos posicionales en Bash \[Bandit 32\]](academia-s4vitar/introduccion-a-linux/overthewhile-practicas/argumentos-posicionales-en-bash-bandit-32.md)
   * [Scripts Bash](academia-s4vitar/introduccion-a-linux/scripts-bash.md)
-* [🛤 Introducción al Hacking](academia-s4vitar/introduccion-al-hacking/README.md)
+* [🛤️ Introducción al Hacking](academia-s4vitar/introduccion-al-hacking/README.md)
   * [Reconocimiento](academia-s4vitar/introduccion-al-hacking/reconocimiento/README.md)
     * [nmap](academia-s4vitar/introduccion-al-hacking/reconocimiento/nmap/README.md)
       * [Técnicas de evasión de Firewalls (MTU, Data Length, Source Port, Decoy, etc.)](academia-s4vitar/introduccion-al-hacking/reconocimiento/nmap/tecnicas-de-evasion-de-firewalls-mtu-data-length-source-port-decoy-etc..md)
