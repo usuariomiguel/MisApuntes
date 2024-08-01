@@ -8,7 +8,7 @@ coverY: 0
 
 Este es el ciclo de vida de la mayoría de las ciberamenazas, modelo desarrollado por Lockheed Martin y denominado Cyber Kill Chain®12.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 De forma muy resumida, el modus operandi en muchas de las actuales campañas de distribución de malware puede resumirse en:&#x20;
 
@@ -36,5 +36,5 @@ En esta fase los atacantes suelen usar herramientas de post-explotación o que l
 
 Una vez obtenido el control sobre la infraestructura víctima y establecido contacto con su sistema de Comando y Control, el atacante envía las órdenes de descarga y detonación del malware elegido, o bien cualquier otro tipo de acción a realizar sobre la red o sistemas víctima: exfiltración de información, alteración o eliminación de datos, cifrado, etc.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

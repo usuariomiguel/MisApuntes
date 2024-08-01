@@ -23,23 +23,23 @@ Añadir a la blancklist codigos de estados (403,404 en este ejemplo) -> -b
 
 El --add-slash es para poner al final un /
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Añadir busqueda de archivos (php,html,txt en este ejemplo) -> -x
 
 Para esta busqueda hay que quitar --add-slash
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 \-s es una lista blanca para codigos de estado -> para usarlo bien en este caso usar -b ''&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Wfuzz
 
 Comando estandar
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 \-hl -> hidde line
 
@@ -49,7 +49,7 @@ Comando estandar
 
 Pones .html al final y te saca con .html las palabras del diccionario
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ahora para cada palabra del diccionario, prubea con las extensiones que les hemos pasado
 
@@ -57,8 +57,8 @@ en -z list,html-php-...
 
 FUZZ/FUZ2Z&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para minar un campo (id ejemplo) usando un rango de valores con wfuzz&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
