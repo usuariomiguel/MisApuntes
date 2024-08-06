@@ -45,7 +45,7 @@ Otra plataforma donde se puede poner a pruba los empleado es Microsoft Defender.
 
 * Acceder al portal de gophish con 127.0.0.1:3333 y el usuario y contraseña crespondientes.
 
-<figure><img src="../../../../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Añadir un nuevo perfil desde donde se envia el correo electronico.
 
