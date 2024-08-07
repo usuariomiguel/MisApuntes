@@ -78,3 +78,25 @@ Vamos a crackear el hash en la pagina crackstation para ver la contraseña
 Y ya nos logueamos con el usuario valley
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+Si buscamos los archivos que tenemos permisos dentro del grupo de ValleyAdmin encontramos un script de python llamado base64.py
+
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+Si añadimos a este fichero siguiente comando, le estaremos dando permiso a valley para ejecutar una bash con permisos de root
+
+```
+os.system('chmod u+s /bin/bash')
+```
+
+<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+Guardamos y ejecutamos el script:
+
+```
+python3 /photos/script/photosEncrypt.py
+```
+
+Ahora simplemente ejecutamos el comando /bin/bash -p y ya estaremos como root
+
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
