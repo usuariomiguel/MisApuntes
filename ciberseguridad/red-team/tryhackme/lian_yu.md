@@ -10,7 +10,7 @@ nmap IP -Pn -p- -v -n --min-rate 3000
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -20,11 +20,11 @@ Vamos a hacer un gobuster en busca de directorios web
 gobuster dir -u URL -w Diccionary -x .php,.html,.txt
 ```
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En el código de la página de island vemos una palabra secreta -> **vigilante**; este pobablemente sea el nombre de usuario del servidor ftp o ssh.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vamos a buscar directorios dentro de **island** con nuestra herramienta gobuster; encontraremos el directorio **2100:**
 
@@ -92,7 +92,7 @@ StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -100,7 +100,7 @@ Ya tenemos la contraseña de ssh del usuario slade, por lo tanto nos conectamos 
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt="" width="369"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="369"><figcaption></figcaption></figure>
 
 </div>
 
@@ -114,6 +114,6 @@ Ahora buscamos la manera de escalar privilegios, probamos con sudo -l y vemos qu
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>

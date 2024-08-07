@@ -44,7 +44,7 @@ Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
 
 
-    <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  **Control permanente de la superficie de exposición**
 
     Un elemento clave es la evaluación de la superficie de exposición de las entidades, identificando las vulnerabilidades asociadas a sus servicios y aplicaciones.
@@ -63,7 +63,7 @@ Liderazgo > Preparación > Respuesta > Comunicación > Cierre
 
 
 
-    <figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. **Respuesta**
    1.  **Diagnóstico inicial y escenarios posibles**
 

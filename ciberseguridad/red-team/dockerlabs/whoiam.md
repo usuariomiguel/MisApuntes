@@ -10,7 +10,7 @@ Veo que la pagina esta creada con wordpress por lo que hago un escaneo con la he
 wpscan --url {URL} -e u
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La herramienta encuentra dos usuarios, erik y developer, por lo que voy a probar a realizar una fuerza bruta en el login con la misma herramienta (wpscan):
 
@@ -20,11 +20,11 @@ wpscan --url {URL} -U {lista usuarios} -P {diccionario de contraseñas}
 
 No he tenido suerte con la fuerza bruta, por lo que vamos a pasar encontrar directorios con gobuster
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Me llama la atención el directorio /backups
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Descomprimimos y nos encontramos con la contraseña de developer, asi que voy a loguearme:
 

@@ -4,15 +4,17 @@ description: // Tutorial //
 
 # Chocolate Factory
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt="" width="375"><figcaption></figcaption></figure>
-
 Identificamos los puertos abiertos de la maquina victima
 
 ```
 nmap IP -Pn -p- -v -n --min-rate 3000
 ```
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/image (27).png" alt="" width="332"><figcaption></figcaption></figure>
+
+</div>
 
 Hacemos una fuerza bruta de los directorios y ficheros del dominio y nos encontramos con un login index.html y una pagina para donde hay un input para ejecutar comandos home.php, vamos a ir a esta ultima:&#x20;
 
@@ -20,7 +22,11 @@ Hacemos una fuerza bruta de los directorios y ficheros del dominio y nos encontr
 gobuster dir -u http://IP:80/ -w DICTIONARY -x .php,.txt,.html
 ```
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/image (26).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 Subimos comando para una revershell con python y nos ponemos en escucha por el puerto configurado en nuestra maquina atacante&#x20;
 
@@ -45,7 +51,11 @@ export TERM=xterm
 
 Dentro de la carpeta /var/www/html llama la atencion el fichero key\_rev\_key, si filtramos por string el fichero podemos observar la primea key
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/image (29).png" alt="" width="313"><figcaption></figcaption></figure>
+
+</div>
 
 Navegando por los directorios nos encontramos con un fichero donde se encuntra la clave publica y privada de ssh del usuario charlie&#x20;
 
@@ -63,11 +73,19 @@ ssh -i id_rsa charlie@IP_victima
 
 Accedemos a la flag de usuario
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Podemos ver la password de charlie en el fichero validate.php
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Escalada de privilegios
 
@@ -87,5 +105,8 @@ sudo vi -c ':!/bin/sh' /dev/null
 
 Introducimos la flag que nos encontramos en el script de pyhton para sacar la flag de root
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="459"><figcaption></figcaption></figure>
+
+</div>
