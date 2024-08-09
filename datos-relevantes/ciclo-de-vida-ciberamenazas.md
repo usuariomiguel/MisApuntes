@@ -10,7 +10,7 @@ Este es el ciclo de vida de la mayoría de las ciberamenazas, modelo desarrollad
 
 <figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-De forma muy resumida, el modus operandi en muchas de las actuales campañas de distribución de malware puede resumirse en:&#x20;
+Aunque de forma muy resumida, el modus operandi en muchas de las **actuales** campañas de distribución de malware puede resumirse en:&#x20;
 
 * Fase de intrusión.&#x20;
 * Movimiento lateral.&#x20;

@@ -29,40 +29,19 @@
       * [Phishing](ciberseguridad/blue-team/concienciacion/pildoras/phishing.md)
       * [Fichero malicioso en el correo electronico](ciberseguridad/blue-team/concienciacion/pildoras/fichero-malicioso-en-el-correo-electronico.md)
       * [Copia Oculta (CCO) en el correo](ciberseguridad/blue-team/concienciacion/pildoras/copia-oculta-cco-en-el-correo.md)
-      * [Incidencias de Ciberseguridad](ciberseguridad/blue-team/concienciacion/pildoras/incidencias-de-ciberseguridad.md)
-      * [Protocolo actuación ante un ataque cibernético](ciberseguridad/blue-team/concienciacion/pildoras/protocolo-actuacion-ante-un-ataque-cibernetico.md)
       * [Lista Robinson](ciberseguridad/blue-team/concienciacion/pildoras/lista-robinson.md)
       * [Seguridad en el teletrabajo](ciberseguridad/blue-team/concienciacion/pildoras/seguridad-en-el-teletrabajo.md)
       * [Peligros de la IA](ciberseguridad/blue-team/concienciacion/pildoras/peligros-de-la-ia.md)
       * [Extorsión a cambio de Bitcoin](ciberseguridad/blue-team/concienciacion/pildoras/extorsion-a-cambio-de-bitcoin.md)
     * [Ataque Dirigido](ciberseguridad/blue-team/concienciacion/ataque-dirigido/README.md)
-      * [USBs](ciberseguridad/blue-team/concienciacion/ataque-dirigido/usbs.md)
       * [Phishing](ciberseguridad/blue-team/concienciacion/ataque-dirigido/phishing.md)
   * [Certificación ENS](ciberseguridad/blue-team/certificacion-ens/README.md)
     * [Real Decreto 3 de Mayo](ciberseguridad/blue-team/certificacion-ens/real-decreto-3-de-mayo.md)
-    * [Herramientas CCN](ciberseguridad/blue-team/certificacion-ens/herramientas-ccn/README.md)
-      * [CLARA](ciberseguridad/blue-team/certificacion-ens/herramientas-ccn/clara.md)
-      * [LORETO](ciberseguridad/blue-team/certificacion-ens/herramientas-ccn/loreto.md)
-      * [INES](ciberseguridad/blue-team/certificacion-ens/herramientas-ccn/ines.md)
-    * [Plan de Formacion y Concienciacion ](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/README.md)
-      * [INTRODUCCIÓN](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/introduccion.md)
-      * [MÓDULO DE CONCIENCIACIÓN EN CIBERSEGURIDAD Y ENS](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-de-concienciacion-en-ciberseguridad-y-ens.md)
-      * [MÓDULO BÁSICO DE CIBERSEGURIDAD](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-basico-de-ciberseguridad.md)
-      * [MÓDULO DE SEGURIDAD EN CORREO ELECTRÓNICO](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-de-seguridad-en-correo-electronico.md)
-      * [MÓDULO DE NAVEGACIÓN SEGURA](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-de-navegacion-segura.md)
-      * [MODULO DE SEGURIDAD EN DISPOSITIVOS MÓVILES](ciberseguridad/blue-team/certificacion-ens/plan-de-formacion-y-concienciacion/modulo-de-seguridad-en-dispositivos-moviles.md)
-
-## Protección de Datos
-
-* [RGPD](proteccion-de-datos/rgpd.md)
-* [AEPD](proteccion-de-datos/aepd/README.md)
-  * [Guía sobre tratamientos de control de presencia mediante sistemas biométricos](proteccion-de-datos/aepd/guia-sobre-tratamientos-de-control-de-presencia-mediante-sistemas-biometricos.md)
 
 ## Datos-Relevantes
 
 * [Ciclo de vida ciberamenazas](datos-relevantes/ciclo-de-vida-ciberamenazas.md)
 * [Ataques mas comunes](datos-relevantes/ataques-mas-comunes.md)
-* [Metodos de infiltración](datos-relevantes/metodos-de-infiltracion.md)
 * [Direccion correo personalizado por 0,99€](datos-relevantes/direccion-correo-personalizado-por-0-99eur.md)
 * [Medidas de prevencion de Incidentes en empresas](datos-relevantes/medidas-de-prevencion-de-incidentes-en-empresas.md)
 
