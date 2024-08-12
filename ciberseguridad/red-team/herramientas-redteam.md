@@ -11,3 +11,10 @@ La herramienta stegseek es un descifrador de contraseñas para archivos ocultos.
 Camphish es una herramienta con la que puedes conseguir tomar fotos de la camara frontal del movil o la webcam de un PC. Camphish crea una web web falsa con php y alojada en un servidor con ngrok o serveo. Para que funcione se necesita que el usuario permita el acceso a la camara una vez acceda a la web. &#x20;
 
 {% embed url="https://github.com/techchipnet/CamPhish" %}
+
+OhMyQR
+
+Hermienta que crea un servidor donde se aloja una replica de un inicio de sesion de una aplicacion con QR para que cuando la victima escanee este se inicie sesion en nuestra maquina atacante. A este tipo de ataque se le denomina QRLJacking o Quick Response Code Login Jacking.
+
+{% embed url="https://github.com/cryptedwolf/ohmyqr" %}
+
