@@ -1,0 +1,86 @@
+# Obssesive
+
+Comenzamos escaneando con la herramienta nmap
+
+```bash
+nmap -sCV -p- --min-rate 3000 -Pn -n {IP} -oX scan
+```
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Vemos abiertos los puertos 21,22 y 80 para el servicio ftp podemos entrar como anonymous y descargarnos dos ficheros
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+En estos no vemos gran cosa, mas que una charla entre amigos y un posible usuario para conectarnos por ssh -> russoski
+
+&#x20;Vamos a inspeccionar la web y hacer una fuerza bruta de los directorios
+
+```bash
+gobuster dir -u http://{URL}/ -w /usr/share/dirbuster/wordlists/directory-list-lowercase-2.3-medium.txt  -x .html,.php,.txt,.py
+```
+
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Inspeccionando estos direcctorios nos encontramos con un fichero que nos asegura lo que sospechamos, russoski es un usuario de ssh por lo que vamos a intentar una fuerza bruta con hydra&#x20;
+
+```bash
+hydra -l russoski -P {diccionario} {IP_victima} ssh -t 4
+```
+
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Encontramos la contraseña en el diccionario rockyou, por lo que ahora a conectarnos a al usuario por ssh
+
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+### Escalada de privilegios
+
+#### Forma 1
+
+Despues de inspeccionar vemos que en el fichero .bash\_history hay informacion valiosa
+
+<div align="left">
+
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Existe un fichero oculto en la carpeta /var/www/html/important con el nombre .root-password.txt
+
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+Tenemos la contraseña de root pero hasheada, vamos a utilizar la herramienta hashcat&#x20;
+
+```bash
+// detectamos con que algoritmo esta hasheado
+echo "{HASH}" > hash.txt | hashcat
+// crackeamos el algoritmo md5 con nuestro diccionario
+hashcat -m 0 hash.txt {diccionario}
+```
+
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+Conseguimos crackear el algoritmo de la contraseña de root
+
+<div align="left">
+
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Forma 2
+
+Con el comando sudo -l podemos observar que el usuario de russoski tiene permisos de root con el comando de vim, podemos explotar este comando para loguearnos como root, en la web GTFO tenemos la informacion necesaria&#x20;
+
+{% embed url="https://gtfobins.github.io/" %}
+
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+<div align="left">
+
+<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+</div>

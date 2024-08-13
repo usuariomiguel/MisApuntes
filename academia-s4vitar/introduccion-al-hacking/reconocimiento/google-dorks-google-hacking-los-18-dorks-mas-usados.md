@@ -14,7 +14,7 @@ Es importante tener en cuenta que la técnica de Google Dorking **no es ilegal e
 Exiftool para ver metadatos de documentos
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Esta pagina es jesucristo**
 

@@ -14,6 +14,7 @@
       * [Valley](ciberseguridad/red-team/writeups/tryhackme/valley.md)
     * [DockerLabs](ciberseguridad/red-team/writeups/dockerlabs/README.md)
       * [Whoiam](ciberseguridad/red-team/writeups/dockerlabs/whoiam.md)
+      * [Obssesive](ciberseguridad/red-team/writeups/dockerlabs/obssesive.md)
 * [🔒 Blue Team](ciberseguridad/blue-team/README.md)
   * [Concienciación](ciberseguridad/blue-team/concienciacion/README.md)
     * [Pildoras](ciberseguridad/blue-team/concienciacion/pildoras/README.md)
