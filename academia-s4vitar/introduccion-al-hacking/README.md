@@ -1,4 +1,8 @@
-# 🛤 Introducción al Hacking
+---
+hidden: true
+---
+
+# 🛤️ Introducción al Hacking
 
 ¿Quieres adentrarte al fascinante mundo del Hacking?, disfruta de este maravilloso curso de **53 horas** donde serás guiado paso a paso por S4vitar con el objetivo de que aprendas a detectar y explotar vulnerabilidades.
 
