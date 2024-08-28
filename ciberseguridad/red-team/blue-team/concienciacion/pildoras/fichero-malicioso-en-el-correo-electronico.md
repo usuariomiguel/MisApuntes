@@ -2,7 +2,7 @@
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../../../../.gitbook/assets/archivos-maliciosos-reciben-empresas-espana-correo-electronico.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/archivos-maliciosos-reciben-empresas-espana-correo-electronico.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

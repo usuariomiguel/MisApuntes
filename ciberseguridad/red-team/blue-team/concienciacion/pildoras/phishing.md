@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<figure><img src="../../../../.gitbook/assets/que-es-phising.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/que-es-phising.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
