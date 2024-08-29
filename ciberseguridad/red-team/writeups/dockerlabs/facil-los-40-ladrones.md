@@ -57,3 +57,34 @@ hydra -l toctoc -P {Wordlist} ssh://IP -v
 
 </div>
 
+Si vemos que comandos podemos ejecutar con otros privelegio vemos lo siguiente
+
+```
+sudo -l 
+```
+
+<figure><img src="../../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+
+Si inspeccionamos el fichero /opt vamos a ver que esta vacio, por lo que intuimos que puede estar capado con knock, si leemos el fichero .bashrc encontramos los puertos de knock.
+
+<div align="left">
+
+<figure><img src="../../../../.gitbook/assets/image (57).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+Ejecutamos siguiente comando en nuestra maquina atacante para desbloquear el fichero
+
+<div align="left">
+
+<figure><img src="../../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Ya podemos ejecutar el comando como root
+
+<div align="left">
+
+<figure><img src="../../../../.gitbook/assets/image (58).png" alt="" width="534"><figcaption></figcaption></figure>
+
+</div>
