@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: >-
   https://images.unsplash.com/photo-1583361704493-d4d4d1b1d70a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxkaWNjaW9uYXJpb3xlbnwwfHx8fDE2ODQyNDIyOTh8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
