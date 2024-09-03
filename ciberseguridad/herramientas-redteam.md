@@ -4,7 +4,25 @@
 
 La herramienta stegseek es un descifrador de contraseñas para archivos ocultos. Es una bifurcación del proyecto original steghide y es miles de veces más rápida que otros descifradores, pudiendo ejecutar la totalidad de rockyou.txt en menos de 2 segundos. Stegseek también se puede utilizar para extraer metadatos de steghide sin contraseña, lo que se puede utilizar para probar si un archivo contiene datos ocultos.
 
+```sh
+apt install stegseek
+```
+
 {% embed url="https://github.com/RickdeJager/stegseek" %}
+
+### Steghide&#x20;
+
+Steghide es un programa de esteganografía que oculta bits de un archivo de datos en algunos de los bits menos significativos de otro archivo de tal manera que la existencia del archivo de datos no es visible y no se puede probar.
+
+Steghide está diseñado para ser portátil y configurable y presenta datos ocultos en archivos bmp, jpeg, jpg, wav y au, cifrado Blowfish, hash MD5 de frases de contraseña para claves Blowfish y distribución pseudoaleatoria de bits ocultos en los datos del contenedor.
+
+Steghide es útil en investigaciones forenses digitales.
+
+```bash
+apt install steghide
+```
+
+{% embed url="https://www.kali.org/tools/steghide/" %}
 
 ### Camphish
 
