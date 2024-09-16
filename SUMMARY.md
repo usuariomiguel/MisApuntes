@@ -16,6 +16,7 @@
     * [\[Muy Fácil\] Obssesive](ciberseguridad/writeups/dockerlabs/muy-facil-obssesive.md)
     * [\[Fácil\] Whoiam](ciberseguridad/writeups/dockerlabs/facil-whoiam.md)
     * [\[Facil\] Los 40 ladrones](ciberseguridad/writeups/dockerlabs/facil-los-40-ladrones.md)
+    * [\[Fácil\] Buscalove](ciberseguridad/writeups/dockerlabs/facil-buscalove.md)
 * [🔒 Blue Team](ciberseguridad/blue-team/README.md)
   * [Concienciación](ciberseguridad/blue-team/concienciacion/README.md)
     * [Pildoras](ciberseguridad/blue-team/concienciacion/pildoras/README.md)
