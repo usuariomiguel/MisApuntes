@@ -1,6 +1,6 @@
 # Table of contents
 
-* [La libreria de M.A Cantos](README.md)
+* [Libreria M.A Cantos](README.md)
 
 ## Pentesting
 
