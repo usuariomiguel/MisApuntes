@@ -1,5 +1,6 @@
 ---
 description: Medio de informacion CCN
+hidden: true
 ---
 
 # Medidas de prevencion de Incidentes en empresas
