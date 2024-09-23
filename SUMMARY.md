@@ -17,6 +17,7 @@
     * [\[Fácil\] Whoiam](pentesting/writeups/dockerlabs/facil-whoiam.md)
     * [\[Facil\] Los 40 ladrones](pentesting/writeups/dockerlabs/facil-los-40-ladrones.md)
     * [\[Fácil\] Buscalove](pentesting/writeups/dockerlabs/facil-buscalove.md)
+    * [\[Fácil\] ChocolateLovers](pentesting/writeups/dockerlabs/facil-chocolatelovers.md)
 * [🔒 Blue Team](pentesting/blue-team/README.md)
   * [Concienciación](pentesting/blue-team/concienciacion/README.md)
     * [Pildoras](pentesting/blue-team/concienciacion/pildoras/README.md)
