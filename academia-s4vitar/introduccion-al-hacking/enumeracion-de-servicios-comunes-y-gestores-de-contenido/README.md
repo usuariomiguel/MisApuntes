@@ -44,3 +44,12 @@ smb -H IP // igual que comando de smbclient pero sacar los permisos
 poetry run crackmapexec smb IP 
 poetry run crackmapexec smb IP --shares
 ```
+
+Wordpress
+
+```
+// wpscan
+// wpscan -e parametro --> parametro para decir si buscar usuarios,plugins,etc.
+// con el api token, que se consigue creando una cuenta en wpscan nos ofrece un escaneo mas completo
+```
+
