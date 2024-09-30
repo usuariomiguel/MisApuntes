@@ -53,3 +53,18 @@ Wordpress
 // con el api token, que se consigue creando una cuenta en wpscan nos ofrece un escaneo mas completo
 ```
 
+Joomla
+
+**Joomscan**: [https://github.com/OWASP/joomscan](https://github.com/OWASP/joomscan)
+
+```
+git clone https://github.com/rezasp/joomscan.git
+cd joomscan
+perl joomscan.pl
+
+// Usage
+Do default checks...
+perl joomscan.pl --url www.example.com
+// or
+perl joomscan.pl -u www.example.com
+```
