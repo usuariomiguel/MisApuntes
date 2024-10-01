@@ -22,7 +22,7 @@ Ingresar dominio a con el plan gratuito de hosting.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ Pasos:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
