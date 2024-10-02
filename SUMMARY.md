@@ -6,7 +6,7 @@
 
 * [Glosario de Terminos](pentesting/glosario-de-terminos.md)
 * [☣️ Red Team](pentesting/red-team.md)
-* [Herramientas RedTeam](pentesting/herramientas-redteam.md)
+* [PentestTools](pentesting/pentesttools.md)
 * [WriteUps](pentesting/writeups/README.md)
   * [TryHackMe](pentesting/writeups/tryhackme/README.md)
     * [Chocolate Factory](pentesting/writeups/tryhackme/chocolate-factory.md)
