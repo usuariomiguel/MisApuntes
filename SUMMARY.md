@@ -112,3 +112,4 @@
   * [Dockers](academia-s4vitar/introduccion-al-hacking/dockers.md)
   * [Enumeración de servicios comunes y gestores de contenido](academia-s4vitar/introduccion-al-hacking/enumeracion-de-servicios-comunes-y-gestores-de-contenido/README.md)
     * [CodeName con SSH](academia-s4vitar/introduccion-al-hacking/enumeracion-de-servicios-comunes-y-gestores-de-contenido/codename-con-ssh.md)
+  * [Enumeración y explotación](academia-s4vitar/introduccion-al-hacking/enumeracion-y-explotacion.md)

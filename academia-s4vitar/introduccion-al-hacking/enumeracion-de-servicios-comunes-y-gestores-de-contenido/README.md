@@ -1,19 +1,25 @@
 # Enumeración de servicios comunes y gestores de contenido
 
-21-FTP
+### Servicios
 
-HYDRA
+{% tabs %}
+{% tab title="FTP" %}
 
-22-SSH
+{% endtab %}
 
-HYDRA
+{% tab title="SSH" %}
 
-80-HTTP
+{% endtab %}
 
-Gobuster, wfuff, fuff, whatweb, diresearch
+{% tab title="HTTP" %}
+* &#x20;Gobuster
+* wfuff
+* fuff
+* whatweb
+* dirsearch
+{% endtab %}
 
-443-HTTPS
-
+{% tab title="HTTPS" %}
 ```
 // openssl
 openssl s_client -connect google.com:443
@@ -27,9 +33,9 @@ openssl s_client -connect google.com:443
 // sslscan
 sslscan google.com
 ```
+{% endtab %}
 
-SMB
-
+{% tab title="SMB" %}
 ```
 // smbclient
 smbclient -L IP -N //lista carpeta
@@ -44,20 +50,24 @@ smb -H IP // igual que comando de smbclient pero sacar los permisos
 poetry run crackmapexec smb IP 
 poetry run crackmapexec smb IP --shares
 ```
+{% endtab %}
+{% endtabs %}
 
-Wordpress
+### Gestores de Contenido
 
+{% tabs %}
+{% tab title="Wordpress" %}
 ```
 // wpscan
 // wpscan -e parametro --> parametro para decir si buscar usuarios,plugins,etc.
 // con el api token, que se consigue creando una cuenta en wpscan nos ofrece un escaneo mas completo
 ```
+{% endtab %}
 
-Joomla
-
-**Joomscan**: [https://github.com/OWASP/joomscan](https://github.com/OWASP/joomscan)
-
+{% tab title="Joomla" %}
 ```
+// JoomScan
+
 git clone https://github.com/rezasp/joomscan.git
 cd joomscan
 perl joomscan.pl
@@ -68,3 +78,24 @@ perl joomscan.pl --url www.example.com
 // or
 perl joomscan.pl -u www.example.com
 ```
+{% endtab %}
+
+{% tab title="Drupal" %}
+Droopescan
+
+{% embed url="https://github.com/SamJoan/droopescan" %}
+
+```
+// git clone
+python3 setup.py install 
+pìp install -r requirements.txt
+droopscan scan drupal --url http://IP:port
+```
+{% endtab %}
+
+{% tab title="Magento" %}
+
+
+{% embed url="https://github.com/steverobbins/magescan" %}
+{% endtab %}
+{% endtabs %}
