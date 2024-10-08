@@ -46,9 +46,11 @@ mkdir /mnt/nueva
 mount -t cifs //IP/carpeta /mnt/nueva
 // smbmap 
 smb -H IP // igual que comando de smbclient pero sacar los permisos
+smb -H IP -u USUARIO -p CONTRASEÑA
 // crackmapexec 
 poetry run crackmapexec smb IP 
 poetry run crackmapexec smb IP --shares
+crackmapexec smb IP -u {wordlist} -p {password} //fuerza bruta usuarios
 ```
 {% endtab %}
 {% endtabs %}
