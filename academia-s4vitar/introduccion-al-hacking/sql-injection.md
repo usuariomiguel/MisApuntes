@@ -6,7 +6,7 @@ Ver numero de columnas
 ' ORDER BY 1 -- -
 ```
 
-Introducir informacion una vez sabemos el numero de columnas que hay
+Introducir informacion una vez sabemos el numero de columnas que hay:
 
 ```
 ' union select 1,2-- -
