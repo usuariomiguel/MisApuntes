@@ -115,4 +115,6 @@
     * [CodeName con SSH](academia-s4vitar/introduccion-al-hacking/enumeracion-de-servicios-comunes-y-gestores-de-contenido/codename-con-ssh.md)
   * [Enumeración y explotación](academia-s4vitar/introduccion-al-hacking/enumeracion-y-explotacion/README.md)
     * [Burpsuite](academia-s4vitar/introduccion-al-hacking/enumeracion-y-explotacion/burpsuite.md)
-  * [SQL Injection](academia-s4vitar/introduccion-al-hacking/sql-injection.md)
+  * [OWASP TOP 10 y vulnerabilidades web](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/README.md)
+    * [SQL Injection](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/sql-injection.md)
+    * [Cross-Site Scripting (XSS)](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/cross-site-scripting-xss.md)
