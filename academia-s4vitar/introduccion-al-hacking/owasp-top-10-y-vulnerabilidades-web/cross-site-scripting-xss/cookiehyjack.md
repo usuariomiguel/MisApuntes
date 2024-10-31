@@ -13,3 +13,9 @@ python3 -m http.server 80
     request.send();
 </script>
 ```
+
+<div align="left">
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>

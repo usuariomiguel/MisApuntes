@@ -119,3 +119,4 @@
     * [SQL Injection](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/sql-injection.md)
     * [Cross-Site Scripting (XSS)](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/cross-site-scripting-xss/README.md)
       * [CookieHyjack](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/cross-site-scripting-xss/cookiehyjack.md)
+      * [KeyLogger](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/cross-site-scripting-xss/keylogger.md)
