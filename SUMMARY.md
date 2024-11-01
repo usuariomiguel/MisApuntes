@@ -120,3 +120,4 @@
     * [Cross-Site Scripting (XSS)](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/cross-site-scripting-xss/README.md)
       * [CookieHyjack](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/cross-site-scripting-xss/cookiehyjack.md)
       * [KeyLogger](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/cross-site-scripting-xss/keylogger.md)
+    * [XML External Entity Injection (XXE)](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/xml-external-entity-injection-xxe.md)
