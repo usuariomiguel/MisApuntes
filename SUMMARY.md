@@ -122,3 +122,4 @@
       * [KeyLogger](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/cross-site-scripting-xss/keylogger.md)
     * [XML External Entity Injection (XXE)](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/xml-external-entity-injection-xxe.md)
     * [Local File Incrusion (LFI)](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/local-file-incrusion-lfi.md)
+    * [Remote File Inclusion (RFI)](academia-s4vitar/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/remote-file-inclusion-rfi.md)
