@@ -123,3 +123,4 @@
     * [XML External Entity Injection (XXE)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/xml-external-entity-injection-xxe.md)
     * [Local File Incrusion (LFI)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/local-file-incrusion-lfi.md)
     * [Remote File Inclusion (RFI)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/remote-file-inclusion-rfi.md)
+    * [Log Poisoning (LFI -> RCE)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/log-poisoning-lfi-greater-than-rce.md)
