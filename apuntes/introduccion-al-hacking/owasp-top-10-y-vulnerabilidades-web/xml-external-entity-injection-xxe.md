@@ -10,7 +10,7 @@ Añadir una entidad en el cuerpo del sitio en la parte del XML
 </email><password>123password</password></root>
 ```
 
-enviamos la peticion y como respuesta tenemos el documento /etc/passwd de la maquina víctima
+Enviamos la peticion y como respuesta tenemos el documento /etc/passwd de la maquina víctima
 
 ```
 HTTP/1.1 200 OK
