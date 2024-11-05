@@ -23,6 +23,12 @@ Ejemplo de LFI:
 
 ### Uso de filtro/wrappers
 
+En PHP, un _wrapper_ es un "envoltorio" o interfaz que permite acceder a diferentes tipos de recursos, como archivos locales, flujos de datos (streams), y contenido en red (HTTP, FTP), mediante un esquema común. Los _wrappers_ actúan como capas de abstracción que permiten trabajar con estos recursos de manera unificada, sin preocuparse por los detalles específicos de cada tipo de recurso.
+
+{% hint style="info" %}
+Algunos de estos wrappers no funcionan por si la configuracion allow\_url\_include del documento /etc/php/8.3/apache2/php.ini esta desactivada
+{% endhint %}
+
 #### php://filter
 
 ```
