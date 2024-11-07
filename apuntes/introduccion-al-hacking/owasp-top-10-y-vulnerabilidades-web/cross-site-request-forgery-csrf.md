@@ -8,13 +8,15 @@ En un ataque CSRF, el atacante engaña a la víctima para que haga clic en un en
 
 Ejemplo:
 
-
-
-Sabiendo el identificador unico de un usario y enviando un post con ese identificador por el metodo GET con los cambios, en este caso campos del perfil del usario, una vez el usuario acceda a este por y se ejecute la peticion, automaticamente se actuializaran dichos campos.
+Sabiendo el identificador unico de un usario y enviando un post con ese identificador por el metodo GET con los cambios, en este caso campos del perfil del usario, una vez el usuario acceda a este post se ejecutará la solicitud HTTP maliciosa y automaticamente se actualizan dichos campos sin que el usuario lo sepa.
 
 1. Inspeccionar peticion con burpsuite
 
-![](<../../../.gitbook/assets/image (1).png>) &#x20;
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (106).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 <div align="left">
 
