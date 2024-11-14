@@ -125,3 +125,6 @@
     * [Remote File Inclusion (RFI)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/remote-file-inclusion-rfi.md)
     * [Log Poisoning (LFI -> RCE)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/log-poisoning-lfi-greater-than-rce.md)
     * [Cross-Site Request Forgery (CSRF)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/cross-site-request-forgery-csrf.md)
+    * [Server-Side Request Forgery (SSRF)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/server-side-request-forgery-ssrf.md)
+    * [Server-Side Template Injection (SSTI)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/server-side-template-injection-ssti.md)
+    * [Client-Side Template Injection (CSTI)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/client-side-template-injection-csti.md)

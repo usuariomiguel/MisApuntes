@@ -8,9 +8,11 @@ En un ataque CSRF, el atacante engaña a la víctima para que haga clic en un en
 
 Ejemplo:
 
-Sabiendo el identificador unico de un usario y enviando un post con ese identificador por el metodo GET con los cambios, en este caso campos del perfil del usario, una vez el usuario acceda a este post se ejecutará la solicitud HTTP maliciosa y automaticamente se actualizan dichos campos sin que el usuario lo sepa.
+**Lab Setup**: [https://seedsecuritylabs.org/Labs\_20.04/Files/Web\_CSRF\_Elgg/Labsetup.zip](https://seedsecuritylabs.org/Labs\_20.04/Files/Web\_CSRF\_Elgg/Labsetup.zip)
 
-1. Inspeccionar peticion con burpsuite
+Sabiendo el identificador único de un usuario y enviando un post con ese identificador por el método GET con los cambios, en este caso campos del perfil del usuario, una vez el usuario acceda a este por y se ejecute la petición, automáticamente se actualizaran dichos campos.
+
+1. Inspeccionar petición con burpsuite
 
 <div align="left">
 
@@ -18,9 +20,17 @@ Sabiendo el identificador unico de un usario y enviando un post con ese identifi
 
 </div>
 
+
+
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,24 +38,40 @@ Sabiendo el identificador unico de un usario y enviando un post con ese identifi
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 3. Eliminamos los campos que no son necesarios y cambiamos el uid por el del usuario victima
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 4. Copiamos toda la peticion y la escribimos a traves de un mensaje en una imagen (el campo acepta el formato HTML)
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 5. Nos logueamos con samy, y vemos que si abre el mensaje que hemos enviado automaticamente se ejecuta la peticion y se cambian los campos&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+</div>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (105).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
