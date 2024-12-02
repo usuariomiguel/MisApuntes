@@ -60,8 +60,9 @@ crackmapexec smb IP -u {wordlist} -p {password} //fuerza bruta usuarios
 {% tabs %}
 {% tab title="Wordpress" %}
 ```
-// wpscan
-// wpscan -e parametro --> parametro para decir si buscar usuarios,plugins,etc.
+// wpscan --url URL
+// wpscan --url URL -e parametro --> parametro para decir si buscar usuarios,plugins,etc.
+// wpscan --url URL --passwords WORDLIST --> Fuerza bruta a los usuarios
 // con el api token, que se consigue creando una cuenta en wpscan nos ofrece un escaneo mas completo
 ```
 {% endtab %}
