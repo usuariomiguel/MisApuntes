@@ -6,6 +6,8 @@
 Es un ataque donde se descifra una cookie en texto plano y una vez sabemos que pone encriptar una cookie que se pueda loguear con un usuario diferente.
 {% endhint %}
 
+<div align="left"><figure><img src="../../../.gitbook/assets/image (107).png" alt="" width="563"><figcaption><p>Proceso de descifrado de cookie desde el intruder de Burpsuite</p></figcaption></figure></div>
+
 Un ataque de oráculo de relleno (**Padding Oracle Attack**) es un tipo de ataque contra datos cifrados que permite al atacante **descifrar** el contenido de los datos **sin conocer la clave**.
 
 Un oráculo hace referencia a una “indicación” que brinda a un atacante información sobre si la acción que ejecuta es correcta o no. Imagina que estás jugando a un juego de mesa o de cartas con un niño: la cara se le ilumina con una gran sonrisa cuando cree que está a punto de hacer un buen movimiento. Eso es un oráculo. En tu caso, como oponente, puedes usar este oráculo para planear tu próximo movimiento según corresponda.
