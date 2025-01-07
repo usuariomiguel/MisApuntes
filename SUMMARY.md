@@ -10,7 +10,7 @@
 * [WriteUps](pentesting/writeups/README.md)
   * [TryHackMe](pentesting/writeups/tryhackme/README.md)
     * [Chocolate Factory](pentesting/writeups/tryhackme/chocolate-factory.md)
-    * [Lian\_Yu](pentesting/writeups/tryhackme/lian\_yu.md)
+    * [Lian\_Yu](pentesting/writeups/tryhackme/lian_yu.md)
     * [Valley](pentesting/writeups/tryhackme/valley.md)
   * [DockerLabs](pentesting/writeups/dockerlabs/README.md)
     * [\[Muy Fácil\] Obssesive](pentesting/writeups/dockerlabs/muy-facil-obssesive.md)
@@ -128,3 +128,4 @@
     * [Server-Side Request Forgery (SSRF)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/server-side-request-forgery-ssrf.md)
     * [Server-Side Template Injection (SSTI)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/server-side-template-injection-ssti.md)
     * [Client-Side Template Injection (CSTI)](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/client-side-template-injection-csti.md)
+    * [Padding Oracle](apuntes/introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/padding-oracle.md)
