@@ -129,5 +129,6 @@
     * [Server-Side Template Injection (SSTI)](apuntes/curso-de-introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/server-side-template-injection-ssti.md)
     * [Client-Side Template Injection (CSTI)](apuntes/curso-de-introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/client-side-template-injection-csti.md)
     * [Padding Oracle](apuntes/curso-de-introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/padding-oracle.md)
-* [OSINT](apuntes/osint/README.md)
+  * [Pivoting](apuntes/curso-de-introduccion-al-hacking/pivoting.md)
+* [🔎 OSINT](apuntes/osint/README.md)
   * [Dirección de correo](apuntes/osint/direccion-de-correo.md)
