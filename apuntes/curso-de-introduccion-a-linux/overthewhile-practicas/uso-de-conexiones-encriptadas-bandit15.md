@@ -10,10 +10,6 @@ Correct!
 JQttfApK4SeyHwDlI9SXGR50qclOAil1
 ```
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Ncat al contrario de nc puede encriptar el tráfico usando SSL. En el modo de conexión, basta con añadir la opción ‘–ssl‘.

@@ -29,9 +29,9 @@ Añadir busqueda de archivos (php,html,txt en este ejemplo) -> -x
 
 Para esta busqueda hay que quitar --add-slash
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-\-s es una lista blanca para codigos de estado -> para usarlo bien en este caso usar -b ''&#x20;
+-s es una lista blanca para codigos de estado -> para usarlo bien en este caso usar -b ''&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -41,9 +41,9 @@ Comando estandar
 
 <figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-\-hl -> hidde line
+-hl -> hidde line
 
-\-hc -> hidde code&#x20;
+-hc -> hidde code&#x20;
 
 ...
 

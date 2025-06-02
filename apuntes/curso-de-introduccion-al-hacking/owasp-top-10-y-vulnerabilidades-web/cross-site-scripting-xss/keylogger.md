@@ -18,8 +18,4 @@ python3 -m http.server 80 2>&1 | grep -oP 'GET /\K[^.*\s]+'
 </script>
 ```
 
-<div align="left">
-
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="487"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="487"><figcaption></figcaption></figure></div>
