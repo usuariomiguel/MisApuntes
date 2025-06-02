@@ -20,11 +20,7 @@ Ingresar dominio a con el plan gratuito de hosting.
 2. Dominios
 3. Seguir los pasos y agrerar dominio.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="179"><figcaption></figcaption></figure></div>
 
 {% embed url="https://www.brevo.com/" %}
 
@@ -38,10 +34,6 @@ Pasos:
    2. direccion de correo --> dominio
    3. Servidor SMTP, nombre de usuario y contraseña --> esta en SMTP y API en Brevo
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% embed url="https://mail.google.com/mail/" %}
