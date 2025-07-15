@@ -12,5 +12,16 @@
 
 **Hunter**: personalmente la mejor herramienta para busqueda de correo además de tener varias funcionalidades muy utiles como verificación de seguridad de una dirección. **DE PAGO** [**https://hunter.io/dashboard**](https://hunter.io/dashboard)
 
+### Analisis de correo
 
+**Phistool:** Esta herramienta te ahorra mucho trabajo, enseñando una cantidad inmensa de informacion de un correo sospechosos, como cabeceras, seguridad (DKIM - DMARC - SPF), etc.&#x20;
 
+{% embed url="https://app.phishtool.com/" %}
+
+**CMD:** Algunos comandos utilies para analisis de correos son:&#x20;
+
+Verificar el SPF del servidor remoto:
+
+```
+nslookup -type=txt dominio.com
+```
