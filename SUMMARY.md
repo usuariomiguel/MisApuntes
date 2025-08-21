@@ -132,4 +132,5 @@
     * [Padding Oracle](apuntes/curso-de-introduccion-al-hacking/owasp-top-10-y-vulnerabilidades-web/padding-oracle.md)
   * [Pivoting](apuntes/curso-de-introduccion-al-hacking/pivoting.md)
 * [🔎 OSINT](apuntes/osint/README.md)
+  * [Ver todas las redes y contraseñas wifi almacenadas en un PC](apuntes/osint/ver-todas-las-redes-y-contrasenas-wifi-almacenadas-en-un-pc.md)
   * [Dirección de correo](apuntes/osint/direccion-de-correo.md)
